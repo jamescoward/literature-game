@@ -72,4 +72,35 @@ describe('renderPassage', () => {
     el.querySelector('.hint-btn').click();
     expect(called).toBe(true);
   });
+
+  // 'forest': positions 0=f(revealed), 1=o, 2=r, 3=e, 4=s, 5=t(revealed)
+  // blanks at positions 1,2,3,4
+  it('fills blank positions with typed letters from currentGuess', () => {
+    // currentGuess 'FO' → position 1 ('O') is a blank and has a typed letter
+    const el = renderPassage(PASSAGE, WORD, WORD_START, WORD_END, revealedZero, null, false, () => {}, 'FO');
+    const filled = el.querySelectorAll('.word-blank-filled');
+    expect(filled.length).toBe(1);
+    expect(filled[0].textContent.toUpperCase()).toBe('O');
+  });
+
+  it('shows no filled blanks when currentGuess is empty', () => {
+    const el = renderPassage(PASSAGE, WORD, WORD_START, WORD_END, revealedZero, null, false, () => {}, '');
+    expect(el.querySelectorAll('.word-blank-filled').length).toBe(0);
+  });
+
+  it('fills multiple blanks when currentGuess covers several positions', () => {
+    // 'FORE': positions 0=F(revealed), 1=O(blank), 2=R(blank), 3=E(blank)
+    const el = renderPassage(PASSAGE, WORD, WORD_START, WORD_END, revealedZero, null, false, () => {}, 'FORE');
+    const filled = el.querySelectorAll('.word-blank-filled');
+    expect(filled.length).toBe(3); // positions 1, 2, 3
+    expect(filled[0].textContent.toUpperCase()).toBe('O');
+    expect(filled[1].textContent.toUpperCase()).toBe('R');
+    expect(filled[2].textContent.toUpperCase()).toBe('E');
+  });
+
+  it('does not fill revealed positions (they are .word-char not blanks)', () => {
+    // Position 0 is always revealed, so typing 'F' only → no blank filled
+    const el = renderPassage(PASSAGE, WORD, WORD_START, WORD_END, revealedZero, null, false, () => {}, 'F');
+    expect(el.querySelectorAll('.word-blank-filled').length).toBe(0);
+  });
 });

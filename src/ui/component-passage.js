@@ -1,5 +1,5 @@
 /**
- * renderPassage(passage, word, wordStart, wordEnd, revealedLetters, hintText, hintUsed, onHint)
+ * renderPassage(passage, word, wordStart, wordEnd, revealedLetters, hintText, hintUsed, onHint, currentGuess)
  *
  * passage        - full passage string
  * word           - the hidden word
@@ -9,8 +9,9 @@
  * hintText       - string or null; shown when hintUsed is true
  * hintUsed       - boolean
  * onHint         - callback invoked when HINT button is clicked
+ * currentGuess   - (optional) string of typed letters to show in unfilled blanks
  */
-export function renderPassage(passage, word, wordStart, wordEnd, revealedLetters, hintText, hintUsed, onHint) {
+export function renderPassage(passage, word, wordStart, wordEnd, revealedLetters, hintText, hintUsed, onHint, currentGuess = '') {
   const wrapper = document.createElement('div');
   wrapper.className = 'passage-wrapper';
 
@@ -25,7 +26,7 @@ export function renderPassage(passage, word, wordStart, wordEnd, revealedLetters
     p.appendChild(document.createTextNode(before));
   }
 
-  revealedLetters.forEach(({ letter, revealed }) => {
+  revealedLetters.forEach(({ letter, revealed }, index) => {
     if (revealed) {
       const span = document.createElement('span');
       span.className = 'word-char';
@@ -33,8 +34,14 @@ export function renderPassage(passage, word, wordStart, wordEnd, revealedLetters
       p.appendChild(span);
     } else {
       const blank = document.createElement('span');
-      blank.className = 'word-blank';
       blank.setAttribute('aria-hidden', 'true');
+      const typedLetter = currentGuess[index];
+      if (typedLetter) {
+        blank.className = 'word-blank word-blank-filled';
+        blank.textContent = typedLetter.toUpperCase();
+      } else {
+        blank.className = 'word-blank';
+      }
       p.appendChild(blank);
     }
   });
