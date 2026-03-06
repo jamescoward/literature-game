@@ -84,15 +84,8 @@ export function renderGameScreen(initialState, puzzle, onComplete) {
     return { puzzleRound, roundState, revealed, wrongCount };
   }
 
-  function render() {
+  function renderCurrentPassage() {
     const { puzzleRound, roundState, revealed } = getRoundData();
-
-    // Replace progress
-    const newProgress = renderProgress(state);
-    screen.replaceChild(newProgress, progressEl);
-    progressEl = newProgress;
-
-    // Replace passage
     const newPassage = renderPassage(
       puzzleRound.passage,
       puzzleRound.word,
@@ -102,9 +95,22 @@ export function renderGameScreen(initialState, puzzle, onComplete) {
       roundState.hintUsed ? puzzleRound.hint : null,
       roundState.hintUsed,
       handleHint,
+      currentGuess,
     );
     screen.replaceChild(newPassage, passageEl);
     passageEl = newPassage;
+  }
+
+  function render() {
+    const { puzzleRound, roundState, revealed } = getRoundData();
+
+    // Replace progress
+    const newProgress = renderProgress(state);
+    screen.replaceChild(newProgress, progressEl);
+    progressEl = newProgress;
+
+    // Replace passage (with current guess for live filling)
+    renderCurrentPassage();
 
     // Guess display
     guessDisplay.textContent = currentGuess;
@@ -126,12 +132,14 @@ export function renderGameScreen(initialState, puzzle, onComplete) {
     if (currentGuess.length >= maxLen) return;
     currentGuess += letter;
     guessDisplay.textContent = currentGuess;
+    renderCurrentPassage();
   }
 
   function handleBackspace() {
     if (currentGuess.length === 0) return;
     currentGuess = currentGuess.slice(0, -1);
     guessDisplay.textContent = currentGuess;
+    renderCurrentPassage();
   }
 
   function handleEnter() {
@@ -144,7 +152,6 @@ export function renderGameScreen(initialState, puzzle, onComplete) {
       return;
     }
 
-    const prevState = state;
     state = submitGuess(state, puzzle, currentGuess);
     currentGuess = '';
 

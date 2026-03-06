@@ -2,6 +2,7 @@ import { getDailyPuzzle, getTodayDateString } from './game/puzzle.js';
 import { initState, loadState, saveState } from './game/state.js';
 import { renderGameScreen } from './ui/screen-game.js';
 import { renderSummary } from './ui/screen-summary.js';
+import { showHowToPlayIfFirstVisit } from './ui/component-howtoplay.js';
 
 const app = document.getElementById('app');
 
@@ -34,6 +35,7 @@ function mountGame(state, puzzle) {
     mountSummary(finalState, puzzle);
   });
   app.appendChild(screen);
+  showHowToPlayIfFirstVisit(document.body);
 }
 
 async function boot() {

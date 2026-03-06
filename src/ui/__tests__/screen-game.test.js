@@ -96,4 +96,37 @@ describe('renderGameScreen', () => {
     const display = el.querySelector('.guess-display');
     expect(display.textContent.trim()).toBe('');
   });
+
+  // Round 0 word is 'dark': d(0,revealed) a(1,blank) r(2,blank) k(3,revealed)
+  it('fills typed letters into passage blanks in real time', () => {
+    const el = renderGameScreen(state, puzzle, onComplete);
+    document.body.appendChild(el);
+
+    // Type 'D' then 'A' — position 1 ('A') is a blank
+    const dBtn = [...el.querySelectorAll('button')].find(b => b.textContent === 'D');
+    dBtn.click();
+    const aBtn2 = [...el.querySelectorAll('button')].find(b => b.textContent === 'A');
+    aBtn2.click();
+
+    const filled = el.querySelectorAll('.word-blank-filled');
+    expect(filled.length).toBe(1);
+    expect(filled[0].textContent.toUpperCase()).toBe('A');
+  });
+
+  it('removes filled letters from passage blanks on backspace', () => {
+    const el = renderGameScreen(state, puzzle, onComplete);
+    document.body.appendChild(el);
+
+    const dBtn = [...el.querySelectorAll('button')].find(b => b.textContent === 'D');
+    dBtn.click();
+    const aBtn2 = [...el.querySelectorAll('button')].find(b => b.textContent === 'A');
+    aBtn2.click();
+
+    const bsBtn = [...el.querySelectorAll('button')].find(b =>
+      b.textContent.includes('⌫') || b.getAttribute('aria-label')?.toLowerCase().includes('backspace')
+    );
+    bsBtn.click();
+
+    expect(el.querySelectorAll('.word-blank-filled').length).toBe(0);
+  });
 });
