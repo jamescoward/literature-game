@@ -1,252 +1,52 @@
 {
   "puzzles": [
     {
-      "id": "pride-and-prejudice",
-      "title": "Pride and Prejudice",
-      "author": "Jane Austen",
-      "gutenberg_id": 1342,
-      "rounds": [
-        {
-          "passage": "It must be so fine for you and your dear little ones to be going home for the holidays.",
-          "word": "fine",
-          "word_start": 14,
-          "word_end": 17,
-          "hint": "Of high quality; giving satisfaction"
-        },
-        {
-          "passage": "She is tolerable, but not handsome enough to tempt me.",
-          "word": "tempt",
-          "word_start": 45,
-          "word_end": 49,
-          "hint": "To entice someone toward something they might resist"
-        },
-        {
-          "passage": "You must allow me to tell you how ardently I admire and love you.",
-          "word": "admire",
-          "word_start": 45,
-          "word_end": 50,
-          "hint": "To regard with respect and warm approval"
-        },
-        {
-          "passage": "I have been a selfish being all my life, in practice, though not in principle.",
-          "word": "selfish",
-          "word_start": 14,
-          "word_end": 20,
-          "hint": "Chiefly concerned with one's own profit or pleasure"
-        },
-        {
-          "passage": "Happiness in marriage is entirely a matter of chance.",
-          "word": "entirely",
-          "word_start": 25,
-          "word_end": 32,
-          "hint": "Wholly; to the full or absolute extent"
-        },
-        {
-          "passage": "She had a lively, playful disposition which delighted in anything ridiculous.",
-          "word": "disposition",
-          "word_start": 26,
-          "word_end": 36,
-          "hint": "A person's inherent qualities of mind and character"
-        }
-      ]
-    },
-    {
       "id": "frankenstein",
       "title": "Frankenstein",
       "author": "Mary Shelley",
       "gutenberg_id": 84,
       "rounds": [
         {
-          "passage": "Nothing is so painful to the human mind as a great and sudden change.",
-          "word": "mind",
-          "word_start": 35,
-          "word_end": 38,
-          "hint": "The element of a person that enables thought and feeling"
+          "passage": "You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings.",
+          "word": "hear",
+          "word_start": 20,
+          "word_end": 23,
+          "hint": "(stative) To perceive sounds through the ear."
         },
         {
-          "passage": "Beware; for I am fearless, and therefore quite powerful.",
-          "word": "quite",
-          "word_start": 41,
-          "word_end": 45,
-          "hint": "To a certain or fairly significant extent"
-        },
-        {
-          "passage": "I felt the greatest eagerness to learn the origin of this creature.",
-          "word": "origin",
-          "word_start": 43,
-          "word_end": 48,
-          "hint": "The point or place where something begins or is derived from"
-        },
-        {
-          "passage": "My imagination was vivid, yet my powers of analysis were intense.",
-          "word": "intense",
+          "passage": "I alighted and was conducted to my solitary apartment to spend the evening as I pleased.",
+          "word": "spend",
           "word_start": 57,
-          "word_end": 63,
-          "hint": "Of extreme force, degree, or strength"
+          "word_end": 61,
+          "hint": "Amount of money spent (during a period); expenditure."
         },
         {
-          "passage": "I have love in me the likes of which you can scarcely imagine.",
-          "word": "scarcely",
-          "word_start": 45,
-          "word_end": 52,
-          "hint": "Only just; almost not at all"
+          "passage": "I told the servants not to disturb the family, and went into the library to attend their usual hour of rising.",
+          "word": "family",
+          "word_start": 39,
+          "word_end": 44,
+          "hint": "A group of people who are closely related to one another (by blood, marriage or adoption); kin; f..."
         },
         {
-          "passage": "My imagination was too much exalted by my first success to permit me to doubt of my ability.",
-          "word": "imagination",
-          "word_start": 3,
-          "word_end": 13,
-          "hint": "The faculty of forming new ideas not present to the senses"
-        }
-      ]
-    },
-    {
-      "id": "treasure-island",
-      "title": "Treasure Island",
-      "author": "Robert Louis Stevenson",
-      "gutenberg_id": 120,
-      "rounds": [
-        {
-          "passage": "A bold young lad stood in the doorway, knife in hand.",
-          "word": "bold",
-          "word_start": 2,
-          "word_end": 5,
-          "hint": "Showing willingness to take risks; confident and courageous"
-        },
-        {
-          "passage": "Pieces of eight! Pieces of eight! cried the parrot.",
-          "word": "eight",
-          "word_start": 10,
-          "word_end": 14,
-          "hint": "The cardinal number between seven and nine"
-        },
-        {
-          "passage": "The pirates came out of the forest on the left with a sudden charge.",
-          "word": "forest",
-          "word_start": 28,
-          "word_end": 33,
-          "hint": "A large area covered chiefly with trees and undergrowth"
-        },
-        {
-          "passage": "Silver himself was nowhere to be seen; he had slipped away somewhere in the night.",
-          "word": "slipped",
-          "word_start": 46,
-          "word_end": 52,
-          "hint": "Moved quietly and quickly so as not to be noticed"
-        },
-        {
-          "passage": "They found the treasure at last, buried deep beneath the old pine tree.",
-          "word": "treasure",
-          "word_start": 15,
-          "word_end": 22,
-          "hint": "A quantity of precious metals, gems, or other valuable objects"
-        },
-        {
-          "passage": "Doubloons and pieces of eight were scattered everywhere on the floor.",
-          "word": "scattered",
-          "word_start": 35,
-          "word_end": 43,
-          "hint": "Spread or distributed over a wide area"
-        }
-      ]
-    },
-    {
-      "id": "the-time-machine",
-      "title": "The Time Machine",
-      "author": "H. G. Wells",
-      "gutenberg_id": 35,
-      "rounds": [
-        {
-          "passage": "The Time Traveller came back and looked hard at me over the table.",
-          "word": "hard",
-          "word_start": 40,
-          "word_end": 43,
-          "hint": "Done with great effort or force; not easily done"
-        },
-        {
-          "passage": "The whole world will be intelligent, educated, and cooperating.",
-          "word": "whole",
-          "word_start": 4,
-          "word_end": 8,
-          "hint": "Complete in every part; not lacking or leaving out any part"
-        },
-        {
-          "passage": "I have thought more than is good for me about the nature of time.",
-          "word": "nature",
-          "word_start": 50,
-          "word_end": 55,
-          "hint": "The basic or inherent features of something"
-        },
-        {
-          "passage": "The machine was steady, and the whole ride was wonderfully smooth.",
-          "word": "machine",
-          "word_start": 4,
-          "word_end": 10,
-          "hint": "An apparatus using mechanical power to perform a task"
-        },
-        {
-          "passage": "The darkness grew apace with a cold sensation against my face.",
-          "word": "darkness",
-          "word_start": 4,
-          "word_end": 11,
-          "hint": "The partial or total absence of light"
-        },
-        {
-          "passage": "I am afraid I cannot convey the peculiar sensations of time travelling.",
-          "word": "travelling",
-          "word_start": 60,
-          "word_end": 69,
-          "hint": "Making a journey; moving from one place to another over time"
-        }
-      ]
-    },
-    {
-      "id": "great-expectations",
-      "title": "Great Expectations",
-      "author": "Charles Dickens",
-      "gutenberg_id": 1400,
-      "rounds": [
-        {
-          "passage": "Take nothing on its looks; take everything on evidence.",
-          "word": "take",
-          "word_start": 0,
-          "word_end": 3,
-          "hint": "To lay hold of something; to get into one's possession"
-        },
-        {
-          "passage": "I loved her against reason, against promise, against peace, against hope.",
-          "word": "peace",
+          "passage": "If such lovely creatures were miserable, it was less strange that I, an imperfect and solitary being, should be wretched.",
+          "word": "strange",
           "word_start": 53,
-          "word_end": 57,
-          "hint": "Freedom from disturbance; tranquility of mind or surroundings"
+          "word_end": 59,
+          "hint": "Vagina"
         },
         {
-          "passage": "Suffering has been stronger than all other teaching, and has taught me to understand.",
-          "word": "taught",
-          "word_start": 61,
-          "word_end": 66,
-          "hint": "Past tense of teach; having imparted knowledge to someone"
+          "passage": "Even I, depressed in mind, and my spirits continually agitated by gloomy feelings, even I was pleased.",
+          "word": "agitated",
+          "word_start": 54,
+          "word_end": 61,
+          "hint": "To disturb or excite; to perturb or stir up (a person)."
         },
         {
-          "passage": "No varnish can hide the grain of the wood; the more varnish you put on, the more the grain will express itself.",
-          "word": "express",
-          "word_start": 96,
-          "word_end": 102,
-          "hint": "To convey a thought or feeling in words or by gestures"
-        },
-        {
-          "passage": "I resolved to tell Joe all that I had witnessed; something that I had promised.",
-          "word": "promised",
-          "word_start": 70,
-          "word_end": 77,
-          "hint": "Made a declaration assuring one will or will not do something"
-        },
-        {
-          "passage": "In the little world in which children have their existence, nothing is so finely felt as injustice.",
-          "word": "existence",
-          "word_start": 49,
-          "word_end": 57,
-          "hint": "The fact or state of living or having objective reality"
+          "passage": "The spire of Evian shone under the woods that surrounded it and the range of mountain above mountain by which it was overhung.",
+          "word": "surrounded",
+          "word_start": 46,
+          "word_end": 55,
+          "hint": "To encircle something or simultaneously extend in all directions."
         }
       ]
     },
@@ -257,46 +57,396 @@
       "gutenberg_id": 345,
       "rounds": [
         {
-          "passage": "I want you to believe in things that you cannot see.",
-          "word": "want",
+          "passage": "Mina Harker’s Journal How these papers have been placed in sequence will be made manifest in the reading of them.",
+          "word": "made",
+          "word_start": 76,
+          "word_end": 79,
+          "hint": "A grub or maggot."
+        },
+        {
+          "passage": "He has managed to get a sparrow, and has already partially tamed it.",
+          "word": "tamed",
+          "word_start": 59,
+          "word_end": 63,
+          "hint": "To make (an animal) tame; to domesticate."
+        },
+        {
+          "passage": "He raised his hand and pointed to the bed, and his iron face was drawn and ashen white.",
+          "word": "raised",
+          "word_start": 3,
+          "word_end": 8,
+          "hint": "(physical) To cause to rise; to lift or elevate."
+        },
+        {
+          "passage": "I suppose now you do not believe in corporeal transference.",
+          "word": "suppose",
           "word_start": 2,
-          "word_end": 5,
-          "hint": "To have a desire or wish for something"
+          "word_end": 8,
+          "hint": "To take for granted; to conclude, with less than absolute supporting data; to believe."
         },
         {
-          "passage": "Listen to the children of the night. What music they make!",
-          "word": "night",
+          "passage": "Then there was the sound of a struggle, and I knew that the attendants were dealing with him.",
+          "word": "struggle",
           "word_start": 30,
-          "word_end": 34,
-          "hint": "The period of darkness between sunset and sunrise"
+          "word_end": 37,
+          "hint": "A contortion of the body in an attempt to escape or to perform a difficult task."
         },
         {
-          "passage": "The castle is a veritable prison and I am a prisoner.",
-          "word": "castle",
-          "word_start": 4,
-          "word_end": 9,
-          "hint": "A large medieval building, typically fortified"
+          "passage": "The very place, where he have been alive, Un-Dead for all these centuries, is full of strangeness of the geologic and chemical world.",
+          "word": "centuries",
+          "word_start": 64,
+          "word_end": 72,
+          "hint": "A period of 100 consecutive years; often specifically a numbered period with conventional start a..."
+        }
+      ]
+    },
+    {
+      "id": "picture-of-dorian-gray",
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "gutenberg_id": 174,
+      "rounds": [
+        {
+          "passage": "The highest as the lowest form of criticism is a mode of autobiography.",
+          "word": "form",
+          "word_start": 26,
+          "word_end": 29,
+          "hint": "(heading, physical) To do with shape."
         },
         {
-          "passage": "We learn from failure, not from success. That is the whole secret.",
-          "word": "failure",
-          "word_start": 14,
-          "word_end": 20,
-          "hint": "Lack of success; the omission of expected or required action"
+          "passage": "Lady Agatha shook her head, but could not help being amused.",
+          "word": "shook",
+          "word_start": 12,
+          "word_end": 16,
+          "hint": "A set of pieces for making a cask or box, usually wood."
         },
         {
-          "passage": "My brain was dizzy; I cannot tell how long it lasted, but I suffered greatly.",
-          "word": "suffered",
-          "word_start": 60,
-          "word_end": 67,
-          "hint": "Experienced pain, distress, or hardship"
+          "passage": "She had all the delicate grace of that Tanagra figurine that you have in your studio, Basil.",
+          "word": "studio",
+          "word_start": 78,
+          "word_end": 83,
+          "hint": "An artist’s or photographer’s workshop or the room in which an artist works."
         },
         {
-          "passage": "I have a sort of expectation that something will happen.",
-          "word": "expectation",
+          "passage": "If the picture was to alter, it was to alter.",
+          "word": "picture",
+          "word_start": 7,
+          "word_end": 13,
+          "hint": "A representation of anything (as a person, a landscape, a building) upon canvas, paper, or other ..."
+        },
+        {
+          "passage": "Your name happened to come up in conversation, in connection with the miniatures you have lent to the exhibition at the Dudley.",
+          "word": "happened",
+          "word_start": 10,
+          "word_end": 17,
+          "hint": "To occur or take place."
+        },
+        {
+          "passage": "Women who hate one are much more interesting.",
+          "word": "interesting",
+          "word_start": 33,
+          "word_end": 43,
+          "hint": "To engage the attention of; to awaken interest in; to excite emotion or passion in, in behalf of ..."
+        }
+      ]
+    },
+    {
+      "id": "great-expectations",
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "gutenberg_id": 1400,
+      "rounds": [
+        {
+          "passage": "So, I called myself Pip, and came to be called Pip.",
+          "word": "came",
+          "word_start": 29,
+          "word_end": 32,
+          "hint": "Used to indicate that the following event, period, or change in state occurred in the past, after..."
+        },
+        {
+          "passage": "Presently, Joe came back, saying that the man was gone, but that he, Joe, had left word at the Three Jolly Bargemen concerning the notes.",
+          "word": "notes",
+          "word_start": 131,
+          "word_end": 135,
+          "hint": "(heading) A symbol or annotation."
+        },
+        {
+          "passage": "He couldn’t say how long he might be, having a case on.",
+          "word": "couldn",
+          "word_start": 3,
+          "word_end": 8,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "She held it in one hand now, and with the other lightly touched my shoulder as we walked.",
+          "word": "lightly",
+          "word_start": 48,
+          "word_end": 54,
+          "hint": "In a light manner."
+        },
+        {
+          "passage": "Not to get up a mystery with these people, I resolved to announce in the morning that my uncle had unexpectedly come from the country.",
+          "word": "resolved",
+          "word_start": 45,
+          "word_end": 52,
+          "hint": "To find a solution to (a problem)."
+        },
+        {
+          "passage": "What else?” “This acquitted young woman and Provis had a little child; a little child of whom Provis was exceedingly fond.",
+          "word": "acquitted",
+          "word_start": 18,
+          "word_end": 26,
+          "hint": "To declare or find innocent or not guilty."
+        }
+      ]
+    },
+    {
+      "id": "tale-of-two-cities",
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "gutenberg_id": 98,
+      "rounds": [
+        {
+          "passage": "It was the year of Our Lord one thousand seven hundred and seventy-five.",
+          "word": "year",
+          "word_start": 11,
+          "word_end": 14,
+          "hint": "A solar year, the time it takes the Earth to complete one revolution of the Sun (between 365.24 a..."
+        },
+        {
+          "passage": "I had not known how to do it well, not understanding how the wind would set when we were out of the harbour.",
+          "word": "known",
+          "word_start": 10,
+          "word_end": 14,
+          "hint": "To perceive the truth or factuality of; to be certain of or that."
+        },
+        {
+          "passage": "Lorry; I have come for a private word.” “Oh indeed!” said Mr.",
+          "word": "indeed",
+          "word_start": 44,
+          "word_end": 49,
+          "hint": "(modal) Truly; in fact; actually."
+        },
+        {
+          "passage": "Lorry, “on which I am anxious to be instructed.",
+          "word": "anxious",
+          "word_start": 22,
+          "word_end": 28,
+          "hint": "Nervous and worried."
+        },
+        {
+          "passage": "She lost her colour, and the old and intent expression was a constant, not an occasional, thing; otherwise, she remained very pretty and comely.",
+          "word": "constant",
+          "word_start": 61,
+          "word_end": 68,
+          "hint": "That which is permanent or invariable."
+        },
+        {
+          "passage": "From the first, I had anxiously considered what I ought to do.",
+          "word": "anxiously",
+          "word_start": 22,
+          "word_end": 30,
+          "hint": "In an anxious manner; with painful uncertainty; solicitously."
+        }
+      ]
+    },
+    {
+      "id": "david-copperfield",
+      "title": "David Copperfield",
+      "author": "Charles Dickens",
+      "gutenberg_id": 766,
+      "rounds": [
+        {
+          "passage": "Instead of looking back, therefore, I will look forward.",
+          "word": "back",
+          "word_start": 19,
+          "word_end": 22,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "It was a night tide; and soon after we went to bed, Mr.",
+          "word": "night",
+          "word_start": 9,
+          "word_end": 13,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "It’s no fun,’ said Steerforth, ‘unless we take them by surprise.",
+          "word": "unless",
+          "word_start": 32,
+          "word_end": 37,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "Barkis,’ he cried faintly. ‘No better woman anywhere!’ ‘Look!",
+          "word": "faintly",
+          "word_start": 18,
+          "word_end": 24,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "She read my letter to the two old ladies, in the morning, and approved of it.",
+          "word": "approved",
+          "word_start": 62,
+          "word_end": 69,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Peggotty had now removed here for good; and had let her own house to the successor of Mr.",
+          "word": "successor",
+          "word_start": 73,
+          "word_end": 81,
+          "hint": "A 9-letter word"
+        }
+      ]
+    },
+    {
+      "id": "bleak-house",
+      "title": "Bleak House",
+      "author": "Charles Dickens",
+      "gutenberg_id": 1023,
+      "rounds": [
+        {
+          "passage": "Vholes, with one or other of whom I think it must have originated.",
+          "word": "whom",
+          "word_start": 29,
+          "word_end": 32,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "It looks in at the windows and touches the ancestral portraits with bars and patches of brightness never contemplated by the painters.",
+          "word": "looks",
+          "word_start": 3,
+          "word_end": 7,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "It wants a bit of youth as much as it wants fresh air.” Then he dismisses her, lights his pipe, and drinks to Mr.",
+          "word": "lights",
+          "word_start": 79,
+          "word_end": 84,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "A stagnant, sickening oil with some natural repulsion in it that makes them both shudder. “What have you been doing here?",
+          "word": "natural",
+          "word_start": 36,
+          "word_end": 42,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "Can you feel quite assured of that, my dear?” “I can, and I do,” I said. “That’s much,” he answered. “That’s everything.",
+          "word": "answered",
+          "word_start": 91,
+          "word_end": 98,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Bucket, very attentive, “and consequently you’re going on to mention what the nature of your secret is.",
+          "word": "attentive",
+          "word_start": 13,
+          "word_end": 21,
+          "hint": "A 9-letter word"
+        }
+      ]
+    },
+    {
+      "id": "huckleberry-finn",
+      "title": "Adventures of Huckleberry Finn",
+      "author": "Mark Twain",
+      "gutenberg_id": 76,
+      "rounds": [
+        {
+          "passage": "Still and Sunday—like.—Mistaken Identity.—Up a Stump.—In a Dilemma.",
+          "word": "like",
           "word_start": 17,
-          "word_end": 27,
-          "hint": "A strong belief that something will happen or be the case"
+          "word_end": 20,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "I did wish Tom Sawyer was there; I knowed he would take an interest in this kind of business, and throw in the fancy touches.",
+          "word": "throw",
+          "word_start": 98,
+          "word_end": 102,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "We shot a water-fowl, now and, then that got up too early in the morning or didn’t go to bed early enough in the evening.",
+          "word": "enough",
+          "word_start": 99,
+          "word_end": 104,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "The old gentleman owned a lot of farms and over a hundred niggers.",
+          "word": "hundred",
+          "word_start": 50,
+          "word_end": 56,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "Ther’ ain’t no question ’bout it in _my_ mind.",
+          "word": "question",
+          "word_start": 15,
+          "word_end": 22,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Now I was feeling pretty comfortable all down one side, and pretty uncomfortable all up the other.",
+          "word": "comfortable",
+          "word_start": 25,
+          "word_end": 35,
+          "hint": "A 11-letter word"
+        }
+      ]
+    },
+    {
+      "id": "tom-sawyer",
+      "title": "The Adventures of Tom Sawyer",
+      "author": "Mark Twain",
+      "gutenberg_id": 74,
+      "rounds": [
+        {
+          "passage": "A Day’s Amusements—Tom Reveals a Secret—The Pirates take a Lesson—A Night Surprise—An Indian War CHAPTER XVII.",
+          "word": "take",
+          "word_start": 52,
+          "word_end": 55,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "The old lady made one end of the silk thread fast to Tom’s tooth with a loop and tied the other to the bedpost.",
+          "word": "tooth",
+          "word_start": 59,
+          "word_end": 63,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "They inwardly resolved to watch him nights, when opportunity should offer, in the hope of getting a glimpse of his dread master.",
+          "word": "nights",
+          "word_start": 36,
+          "word_end": 41,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "But there was no whispering in the house; only the funereal rustling of dresses as the women gathered to their seats disturbed the silence there.",
+          "word": "dresses",
+          "word_start": 72,
+          "word_end": 78,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "The labor dragged a little, but still they made progress.",
+          "word": "progress",
+          "word_start": 48,
+          "word_end": 55,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "There was no Sabbath-school during day-school vacation, but everybody was early at church.",
+          "word": "everybody",
+          "word_start": 60,
+          "word_end": 68,
+          "hint": "A 9-letter word"
         }
       ]
     },
@@ -307,46 +457,1896 @@
       "gutenberg_id": 2701,
       "rounds": [
         {
-          "passage": "Call me Ishmael. Some years ago, I had little money in my purse.",
-          "word": "call",
-          "word_start": 0,
-          "word_end": 3,
-          "hint": "To address someone by a name; to summon or invite"
+          "passage": "Stubb and Flask kill a Right Whale; and Then Have a Talk over Him.",
+          "word": "kill",
+          "word_start": 16,
+          "word_end": 19,
+          "hint": "A 4-letter word"
         },
         {
-          "passage": "A whale ship was my Yale College and my Harvard.",
-          "word": "whale",
+          "passage": "I tried to open it, but it was fastened inside. “Queequeg,” said I softly through the key-hole:—all silent. “I say, Queequeg! why don’t you speak?",
+          "word": "tried",
           "word_start": 2,
           "word_end": 6,
-          "hint": "A very large marine mammal with a torpedo-shaped body"
+          "hint": "A 5-letter word"
         },
         {
-          "passage": "Better to sleep with a sober cannibal than a drunken Christian.",
-          "word": "better",
-          "word_start": 0,
-          "word_end": 5,
-          "hint": "Of a more excellent or effective type or quality"
+          "passage": "Swerve me? ye cannot swerve me, else ye swerve yourselves! man has ye there.",
+          "word": "cannot",
+          "word_start": 14,
+          "word_end": 19,
+          "hint": "A 6-letter word"
         },
         {
-          "passage": "To produce a mighty book, you must choose a mighty theme.",
-          "word": "produce",
+          "passage": "The manner in which the Bishop describes it, as alternately rising and sinking, with some other particulars he narrates, in all this the two correspond.",
+          "word": "sinking",
+          "word_start": 71,
+          "word_end": 77,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "The long and narrow peninsula of Malacca, extending south-eastward from the territories of Birmah, forms the most southerly point of all Asia.",
+          "word": "eastward",
+          "word_start": 58,
+          "word_end": 65,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Thou art always prating to me, Starbuck, about those miserly owners, as if the owners were my conscience.",
+          "word": "conscience",
+          "word_start": 94,
+          "word_end": 103,
+          "hint": "A 10-letter word"
+        }
+      ]
+    },
+    {
+      "id": "scarlet-letter",
+      "title": "The Scarlet Letter",
+      "author": "Nathaniel Hawthorne",
+      "gutenberg_id": 25344,
+      "rounds": [
+        {
+          "passage": "As to enmity, or ill-feeling of any kind, personal or political, he utterly disclaims such motives.",
+          "word": "kind",
+          "word_start": 36,
+          "word_end": 39,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "It irks me, nevertheless, that the partner of her iniquity should not, at least, stand on the scaffold by her side.",
+          "word": "least",
+          "word_start": 74,
+          "word_end": 78,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "Skilful men, of the medical and chirurgical profession, were of rare occurrence in the colony.",
+          "word": "colony",
+          "word_start": 87,
+          "word_end": 92,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "It was, indeed, a majestic idea, that the destiny of nations should be revealed, in these awful hieroglyphics, on the cope of heaven.",
+          "word": "destiny",
+          "word_start": 42,
+          "word_end": 48,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "Gathering himself quickly up, he stood more erect, like a man taken by surprise in a mood to which he was reluctant to have witnesses.",
+          "word": "surprise",
+          "word_start": 71,
+          "word_end": 78,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "It had stupefied all blessed impulses, and awakened into vivid life the whole brotherhood of bad ones.",
+          "word": "stupefied",
+          "word_start": 7,
+          "word_end": 15,
+          "hint": "A 9-letter word"
+        }
+      ]
+    },
+    {
+      "id": "little-women",
+      "title": "Little Women",
+      "author": "Louisa May Alcott",
+      "gutenberg_id": 514,
+      "rounds": [
+        {
+          "passage": "We’ve each got a dollar, and the army wouldn’t be much helped by our giving that.",
+          "word": "each",
+          "word_start": 6,
+          "word_end": 9,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "When Amy was comfortably asleep, the house quiet, and Mrs.",
+          "word": "house",
+          "word_start": 37,
+          "word_end": 41,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "He rather stared at first, as if he wasn’t used to having girls bounce into his shop and ask him to buy their hair.",
+          "word": "stared",
+          "word_start": 10,
+          "word_end": 15,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "March’s arrival, drove straight out to see him.",
+          "word": "arrival",
+          "word_start": 8,
+          "word_end": 14,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "Both are tall fellows with whiskers, Fred handsome in the English style, and Frank much better, for he only limps slightly, and uses no crutches.",
+          "word": "whiskers",
+          "word_start": 27,
+          "word_end": 34,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "I shall carry you if you don’t go yourself.” “Go ’way, me don’t love Parpar.” and Demi retired to his mother’s skirts for protection.",
+          "word": "protection",
+          "word_start": 122,
+          "word_end": 131,
+          "hint": "A 10-letter word"
+        }
+      ]
+    },
+    {
+      "id": "middlemarch",
+      "title": "Middlemarch",
+      "author": "George Eliot",
+      "gutenberg_id": 145,
+      "rounds": [
+        {
+          "passage": "Caldwell Company Publishers To my dear Husband, George Henry Lewes, in this nineteenth year of our blessed union.",
+          "word": "dear",
+          "word_start": 34,
+          "word_end": 37,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "Before changing his course, he always needed to shape his motives and bring them into accordance with his habitual standard.",
+          "word": "shape",
+          "word_start": 48,
+          "word_end": 52,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "My unfortunate paradoxes had entirely dried up that source of comfort.—GOLDSMITH.",
+          "word": "source",
+          "word_start": 52,
+          "word_end": 57,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "Farebrother left the house soon after, and seeing Mary in the orchard with Letty, went to say good-by to her.",
+          "word": "orchard",
+          "word_start": 62,
+          "word_end": 68,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "Cadwallader, who had some pleasure in startling her good friend the Dowager.",
+          "word": "pleasure",
+          "word_start": 26,
+          "word_end": 33,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Garth—a man, I trust, who feels himself accountable to God.",
+          "word": "accountable",
+          "word_start": 40,
+          "word_end": 50,
+          "hint": "A 11-letter word"
+        }
+      ]
+    },
+    {
+      "id": "mill-on-the-floss",
+      "title": "The Mill on the Floss",
+      "author": "George Eliot",
+      "gutenberg_id": 6688,
+      "rounds": [
+        {
+          "passage": "cover The Mill on the Floss by George Eliot “In their death they were not divided.” Contents BOOK FIRST.",
+          "word": "were",
+          "word_start": 65,
+          "word_end": 68,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "There was quite a group round the fire when she reached it.",
+          "word": "group",
+          "word_start": 18,
+          "word_end": 22,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "How’s my poor brother?” “Mr Turnbull thinks he’ll get better,” said Maggie. “Sit down, aunt Gritty.",
+          "word": "thinks",
+          "word_start": 37,
+          "word_end": 42,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "I’m makin’ you a present o’ th’ articles; I am, indeed.",
+          "word": "present",
+          "word_start": 17,
+          "word_end": 23,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "Or rather, I promised you not to see him without telling you.",
+          "word": "promised",
+          "word_start": 13,
+          "word_end": 20,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Stephen, moving away from the piano, sauntered slowly toward the table near which Maggie sat, and turned over the newspapers, apparently in mere idleness.",
+          "word": "sauntered",
+          "word_start": 37,
+          "word_end": 45,
+          "hint": "A 9-letter word"
+        }
+      ]
+    },
+    {
+      "id": "tess-of-the-durbervilles",
+      "title": "Tess of the d'Urbervilles",
+      "author": "Thomas Hardy",
+      "gutenberg_id": 110,
+      "rounds": [
+        {
+          "passage": "My bosom as a bed Shall lodge thee.—W.",
+          "word": "thee",
+          "word_start": 30,
+          "word_end": 33,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "But the words entered Tess with accusatory horror.",
+          "word": "words",
+          "word_start": 8,
+          "word_end": 12,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "Would not a farmer want a wife, and should a farmer’s wife be a drawing-room wax-figure, or a woman who understood farming?",
+          "word": "farmer",
+          "word_start": 12,
+          "word_end": 17,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "And I did not this morning, when you proposed our confessing our faults on the landing—the sinner that I was!",
+          "word": "morning",
+          "word_start": 19,
+          "word_end": 25,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "XLII It was now broad day, and she started again, emerging cautiously upon the highway.",
+          "word": "emerging",
+          "word_start": 50,
+          "word_end": 57,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "He would have grown out of it under proper influence, and perhaps would have taken Orders after all.",
+          "word": "influence",
+          "word_start": 43,
+          "word_end": 51,
+          "hint": "A 9-letter word"
+        }
+      ]
+    },
+    {
+      "id": "far-from-madding-crowd",
+      "title": "Far from the Madding Crowd",
+      "author": "Thomas Hardy",
+      "gutenberg_id": 107,
+      "rounds": [
+        {
+          "passage": "Various characteristics of each ebook are listed to aid in selecting the preferred file.",
+          "word": "each",
+          "word_start": 27,
+          "word_end": 30,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "It was wrong of me to worry you.",
+          "word": "wrong",
+          "word_start": 7,
+          "word_end": 11,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "She then asked Gabriel to take the place and the duties appertaining to that end, which he did with great readiness.",
+          "word": "duties",
+          "word_start": 49,
+          "word_end": 54,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "I got down and pulled it out a hundred yards back.",
+          "word": "hundred",
+          "word_start": 31,
+          "word_end": 37,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "I do hate them.” “’Twould be much more becoming if you set yourself to cure them.",
+          "word": "becoming",
+          "word_start": 39,
+          "word_end": 46,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Troy puts much confidence in you, Lydia, and very wisely, perhaps.” “She do, sir.",
+          "word": "confidence",
+          "word_start": 15,
+          "word_end": 24,
+          "hint": "A 10-letter word"
+        }
+      ]
+    },
+    {
+      "id": "turn-of-the-screw",
+      "title": "The Turn of the Screw",
+      "author": "Henry James",
+      "gutenberg_id": 209,
+      "rounds": [
+        {
+          "passage": "It was this observation that drew from Douglas—not immediately, but later in the evening—a reply that had the interesting consequence to which I call attention.",
+          "word": "drew",
+          "word_start": 29,
+          "word_end": 32,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "There came to me thus a bewilderment of vision of which, after these years, there is no living view that I can hope to give.",
+          "word": "years",
+          "word_start": 69,
+          "word_end": 73,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "But, really, I was afraid.” “Afraid of what?” “Of things that man could do.",
+          "word": "really",
+          "word_start": 5,
+          "word_end": 10,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "And he knew I had not—I found myself at the end of an instant magnificently aware of this.",
+          "word": "instant",
+          "word_start": 54,
+          "word_end": 60,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "My quickness would have to be remarkable, however, and the question of a conveyance was the great one to settle.",
+          "word": "question",
+          "word_start": 59,
+          "word_end": 66,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Of what first happened when I was left alone I had no subsequent memory.",
+          "word": "subsequent",
+          "word_start": 54,
+          "word_end": 63,
+          "hint": "A 10-letter word"
+        }
+      ]
+    },
+    {
+      "id": "portrait-of-a-lady",
+      "title": "The Portrait of a Lady",
+      "author": "Henry James",
+      "gutenberg_id": 2833,
+      "rounds": [
+        {
+          "passage": "Like “Roderick” and like “_The American_,” it had been designed for publication in “_The Atlantic Monthly_,” where it began to appear in 1880.",
+          "word": "like",
+          "word_start": 20,
+          "word_end": 23,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "I never asked many questions even; I just kept quiet and took notice.",
+          "word": "quiet",
+          "word_start": 47,
+          "word_end": 51,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "He wrote me a very pleasant letter, telling me all about them.",
+          "word": "letter",
+          "word_start": 28,
+          "word_end": 33,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "Had it not been thought graceful in every age that young ladies should make a mystery of such appointments?",
+          "word": "thought",
+          "word_start": 16,
+          "word_end": 22,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "It has been as if a big gun were suddenly fired off behind her; she’s feeling herself to see if she be hurt.",
+          "word": "suddenly",
+          "word_start": 33,
+          "word_end": 40,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "For Isabel, however, there was of course as yet no thought of getting out, but only of advancing.",
+          "word": "advancing",
+          "word_start": 87,
+          "word_end": 95,
+          "hint": "A 9-letter word"
+        }
+      ]
+    },
+    {
+      "id": "red-badge-of-courage",
+      "title": "The Red Badge of Courage",
+      "author": "Stephen Crane",
+      "gutenberg_id": 73,
+      "rounds": [
+        {
+          "passage": "The cold passed reluctantly from the earth, and the retiring fogs revealed an army stretched out on the hills, resting.",
+          "word": "cold",
+          "word_start": 4,
+          "word_end": 7,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "And he hated the lieutenant, who had no appreciation of fine minds.",
+          "word": "hated",
+          "word_start": 7,
+          "word_end": 11,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "He knew it could be proved that they had been fools.",
+          "word": "proved",
+          "word_start": 20,
+          "word_end": 25,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "He groaned from his heart and went staggering off.",
+          "word": "groaned",
           "word_start": 3,
           "word_end": 9,
-          "hint": "To bring something into existence; to make or manufacture"
+          "hint": "A 7-letter word"
         },
         {
-          "passage": "I know not all that may be coming, but I will go to it laughing.",
-          "word": "laughing",
+          "passage": "From the right came the noise of a terrific fracas.",
+          "word": "terrific",
+          "word_start": 35,
+          "word_end": 42,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "His dreams had collapsed when the mule drivers, dwindling rapidly, had wavered and hesitated on the little clearing, and then had recoiled.",
+          "word": "collapsed",
+          "word_start": 15,
+          "word_end": 23,
+          "hint": "A 9-letter word"
+        }
+      ]
+    },
+    {
+      "id": "treasure-island",
+      "title": "Treasure Island",
+      "author": "Robert Louis Stevenson",
+      "gutenberg_id": 120,
+      "rounds": [
+        {
+          "passage": "Here you, matey,” he cried to the man who trundled the barrow; “bring up alongside and help up my chest.",
+          "word": "help",
+          "word_start": 87,
+          "word_end": 90,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "There is a class of men in Bristol monstrously prejudiced against Blandly.",
+          "word": "class",
+          "word_start": 11,
+          "word_end": 15,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "Livesey were talking together on the quarter-deck, and anxious as I was to tell them my story, I durst not interrupt them openly.",
+          "word": "openly",
+          "word_start": 122,
+          "word_end": 127,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "After reloading, we walked down the outside of the palisade to see to the fallen enemy.",
+          "word": "outside",
+          "word_start": 36,
+          "word_end": 42,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "I glanced over my shoulder, and my heart jumped against my ribs.",
+          "word": "shoulder",
+          "word_start": 18,
+          "word_end": 25,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "I know you’ve got that ship safe somewheres.",
+          "word": "somewheres",
+          "word_start": 33,
+          "word_end": 42,
+          "hint": "A 10-letter word"
+        }
+      ]
+    },
+    {
+      "id": "jekyll-and-hyde",
+      "title": "The Strange Case of Dr Jekyll and Mr Hyde",
+      "author": "Robert Louis Stevenson",
+      "gutenberg_id": 43,
+      "rounds": [
+        {
+          "passage": "And to such as these, so long as they came about his chambers, he never marked a shade of change in his demeanour.",
+          "word": "long",
+          "word_start": 25,
+          "word_end": 28,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "Lanyon, had his house and received his crowding patients. “If anyone knows, it will be Lanyon,” he had thought.",
+          "word": "house",
+          "word_start": 16,
+          "word_end": 20,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "He must have lost his head, or he never would have left the stick or, above all, burned the cheque book.",
+          "word": "burned",
+          "word_start": 81,
+          "word_end": 86,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "Utterson,” ran forward as if to take him in her arms. “What, what?",
+          "word": "forward",
+          "word_start": 15,
+          "word_end": 21,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "It is possible that the post-office may fail me, and this letter not come into your hands until to-morrow morning.",
+          "word": "possible",
+          "word_start": 6,
+          "word_end": 13,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Jekyll, I could enter on that of Edward Hyde without pecuniary loss.",
+          "word": "pecuniary",
+          "word_start": 53,
+          "word_end": 61,
+          "hint": "A 9-letter word"
+        }
+      ]
+    },
+    {
+      "id": "time-machine",
+      "title": "The Time Machine",
+      "author": "H. G. Wells",
+      "gutenberg_id": 35,
+      "rounds": [
+        {
+          "passage": "His pale grey eyes shone and twinkled, and his usually pale face was flushed and animated.",
+          "word": "pale",
+          "word_start": 4,
+          "word_end": 7,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "A colossal figure, carved apparently in some white stone, loomed indistinctly beyond the rhododendrons through the hazy downpour.",
+          "word": "white",
+          "word_start": 45,
+          "word_end": 49,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "I had the hardest task in the world to keep my hands off their pretty laughing faces.",
+          "word": "pretty",
+          "word_start": 63,
+          "word_end": 68,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "Once or twice I had a feeling of intense fear for which I could perceive no definite reason.",
+          "word": "feeling",
+          "word_start": 22,
+          "word_end": 28,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "My sense of the immediate presence of the Morlocks revived at that.",
+          "word": "presence",
+          "word_start": 26,
+          "word_end": 33,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Nature never appeals to intelligence until habit and instinct are useless.",
+          "word": "intelligence",
+          "word_start": 24,
+          "word_end": 35,
+          "hint": "A 12-letter word"
+        }
+      ]
+    },
+    {
+      "id": "war-of-the-worlds",
+      "title": "The War of the Worlds",
+      "author": "H. G. Wells",
+      "gutenberg_id": 36,
+      "rounds": [
+        {
+          "passage": "And how are all things made for man?’ KEPLER (quoted in _The Anatomy of Melancholy_) Contents BOOK ONE.—THE COMING OF THE MARTIANS I.",
+          "word": "made",
+          "word_start": 23,
+          "word_end": 26,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "There were half a dozen villas burning on the Woking border.",
+          "word": "dozen",
+          "word_start": 18,
+          "word_end": 22,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "The fallen Martian came into sight downstream, lying across the river, and for the most part submerged.",
+          "word": "fallen",
+          "word_start": 4,
+          "word_end": 9,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "Fighting side by side with them pushed some weary street outcast in faded black rags, wide-eyed, loud-voiced, and foul-mouthed.",
+          "word": "outcast",
+          "word_start": 57,
+          "word_end": 63,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "In this way the curious parallelism to animal motions, which was so striking and disturbing to the human beholder, was attained.",
+          "word": "striking",
+          "word_start": 68,
+          "word_end": 75,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "And we’ve got to live and keep independent while we learn.",
+          "word": "independent",
+          "word_start": 31,
+          "word_end": 41,
+          "hint": "A 11-letter word"
+        }
+      ]
+    },
+    {
+      "id": "invisible-man",
+      "title": "The Invisible Man",
+      "author": "H. G. Wells",
+      "gutenberg_id": 5230,
+      "rounds": [
+        {
+          "passage": "A room and a fire!” He stamped and shook the snow from off himself in the bar, and followed Mrs.",
+          "word": "room",
+          "word_start": 2,
+          "word_end": 5,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "And the front door’s onbolted.” At first Mrs.",
+          "word": "front",
+          "word_start": 8,
+          "word_end": 12,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "He and Teddy approached the door together, with intent faces.",
+          "word": "intent",
+          "word_start": 48,
+          "word_end": 53,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "It’s only the living tissue I’ve changed, and only for as long as I’m alive....",
+          "word": "changed",
+          "word_start": 33,
+          "word_end": 39,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "I looked down and saw at once the dim suggestion of their outline sketched in splashes of mud.",
+          "word": "sketched",
+          "word_start": 66,
+          "word_end": 73,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Put that stuff down.” In another moment Adye was leading the way downstairs.",
+          "word": "downstairs",
+          "word_start": 65,
+          "word_end": 74,
+          "hint": "A 10-letter word"
+        }
+      ]
+    },
+    {
+      "id": "hound-of-baskervilles",
+      "title": "The Hound of the Baskervilles",
+      "author": "Arthur Conan Doyle",
+      "gutenberg_id": 2852,
+      "rounds": [
+        {
+          "passage": "Conan Doyle My dear Robinson, It was to your account of a West-Country legend that this tale owes its inception.",
+          "word": "dear",
+          "word_start": 15,
+          "word_end": 18,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "Holmes, it’s half-past eleven now and I am going back right away to my hotel.",
+          "word": "right",
+          "word_start": 54,
+          "word_end": 58,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "Suddenly my thoughts were interrupted by the sound of running feet behind me and by a voice which called me by name.",
+          "word": "behind",
+          "word_start": 67,
+          "word_end": 72,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "We had heard the creak of a step in the passage.",
+          "word": "passage",
+          "word_start": 40,
+          "word_end": 46,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "Frankland, who was standing, grey-whiskered and red-faced, outside the gate of his garden, which opened on to the highroad along which I travelled. “Good-day, Dr.",
+          "word": "standing",
+          "word_start": 19,
+          "word_end": 26,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Now, Watson, I think that we cannot employ our time better than by calling upon your acquaintance, Mrs.",
+          "word": "acquaintance",
+          "word_start": 85,
+          "word_end": 96,
+          "hint": "A 12-letter word"
+        }
+      ]
+    },
+    {
+      "id": "study-in-scarlet",
+      "title": "A Study in Scarlet",
+      "author": "Arthur Conan Doyle",
+      "gutenberg_id": 244,
+      "rounds": [
+        {
+          "passage": "Having completed my studies there, I was duly attached to the Fifth Northumberland Fusiliers as Assistant Surgeon.",
+          "word": "duly",
+          "word_start": 41,
+          "word_end": 44,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "It was a foggy, cloudy morning, and a dun-coloured veil hung over the house-tops, looking like the reflection of the mud-coloured streets beneath.",
+          "word": "foggy",
+          "word_start": 9,
+          "word_end": 13,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "Eleven, and the more stately tread of the landlady passed my door, bound for the same destination.",
+          "word": "passed",
+          "word_start": 51,
+          "word_end": 56,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "The fellow came forward with a somewhat sullen, defiant air, and put down his hands to assist.",
+          "word": "forward",
+          "word_start": 16,
+          "word_end": 22,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "These tales and rumours took substance and shape, and were corroborated and re-corroborated, until they resolved themselves into a definite name.",
+          "word": "resolved",
+          "word_start": 104,
+          "word_end": 111,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Once a bullet whistled through Stangerson’s window and flattened itself upon the wall within a foot of him.",
+          "word": "flattened",
           "word_start": 55,
-          "word_end": 62,
-          "hint": "Making the sounds and movements that express amusement"
+          "word_end": 63,
+          "hint": "A 9-letter word"
+        }
+      ]
+    },
+    {
+      "id": "around-the-world-80-days",
+      "title": "Around the World in 80 Days",
+      "author": "Jules Verne",
+      "gutenberg_id": 103,
+      "rounds": [
+        {
+          "passage": "Phileas Fogg lived, in 1872, at No. 7, Saville Row, Burlington Gardens, the house in which Sheridan died in 1814.",
+          "word": "died",
+          "word_start": 100,
+          "word_end": 103,
+          "hint": "A 4-letter word"
         },
         {
-          "passage": "I am tormented with an everlasting itch for things remote.",
-          "word": "tormented",
+          "passage": "At five minutes before eight, Passepartout, hatless, shoeless, and having in the squabble lost his package of shirts and shoes, rushed breathlessly into the station.",
+          "word": "eight",
+          "word_start": 23,
+          "word_end": 27,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "But this method was a dangerous one, only to be employed when everything else had failed.",
+          "word": "method",
+          "word_start": 9,
+          "word_end": 14,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "The boat must keep up an average of nine miles an hour, and the wind was becoming calmer every moment!",
+          "word": "average",
+          "word_start": 25,
+          "word_end": 31,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "One tunnel only, fourteen thousand feet in length, was pierced in order to arrive at the great basin.",
+          "word": "fourteen",
+          "word_start": 17,
+          "word_end": 24,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Passepartout and Fix jumped off, stretched their stiffened limbs, and aided Mr.",
+          "word": "stretched",
+          "word_start": 33,
+          "word_end": 41,
+          "hint": "A 9-letter word"
+        }
+      ]
+    },
+    {
+      "id": "twenty-thousand-leagues",
+      "title": "Twenty Thousand Leagues Under the Sea",
+      "author": "Jules Verne",
+      "gutenberg_id": 164,
+      "rounds": [
+        {
+          "passage": "Not to mention rumours which agitated the maritime population and excited the public mind, even in the interior of continents, seafaring men were particularly excited.",
+          "word": "mind",
+          "word_start": 85,
+          "word_end": 88,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "It is an immense desert, where man is never lonely, for he feels life stirring on all sides.",
+          "word": "feels",
+          "word_start": 59,
+          "word_end": 63,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "They were examining the situation of the vessel, and exchanging words in their incomprehensible dialect.",
+          "word": "vessel",
+          "word_start": 41,
+          "word_end": 46,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "Whatever he might say, this strange man had not yet succeeded in entirely crushing his heart.",
+          "word": "strange",
+          "word_start": 28,
+          "word_end": 34,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "The bearings gave us 45° 37′ S. lat., and 37° 53′ W. long.",
+          "word": "bearings",
+          "word_start": 4,
+          "word_end": 11,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "It was white underneath, red above, with large round spots of dark blue encircled with black, very glossy skin, terminating in a bilobed fin.",
+          "word": "underneath",
+          "word_start": 13,
+          "word_end": 22,
+          "hint": "A 10-letter word"
+        }
+      ]
+    },
+    {
+      "id": "count-of-monte-cristo",
+      "title": "The Count of Monte Cristo",
+      "author": "Alexandre Dumas",
+      "gutenberg_id": 1184,
+      "rounds": [
+        {
+          "passage": "The Cemetery of the Château d’If Chapter 21.",
+          "word": "teau",
+          "word_start": 23,
+          "word_end": 26,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "He rose on the waves, making signs of distress; but no one on board saw him, and the vessel stood on another tack.",
+          "word": "waves",
+          "word_start": 15,
+          "word_end": 19,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "A dull and heavy sound was heard, and the man dropped like an ox on his face, and then turned over on his back.",
+          "word": "turned",
+          "word_start": 87,
+          "word_end": 92,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "About a year ago, I talked of retiring to a convent.",
+          "word": "convent",
+          "word_start": 44,
+          "word_end": 50,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "Near her was the instrument on which she had just been playing; it was elegantly fashioned, and worthy of its mistress.",
+          "word": "mistress",
+          "word_start": 110,
+          "word_end": 117,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Notwithstanding his youth, Master Andrea was a very skilful and intelligent boy.",
+          "word": "intelligent",
+          "word_start": 64,
+          "word_end": 74,
+          "hint": "A 11-letter word"
+        }
+      ]
+    },
+    {
+      "id": "three-musketeers",
+      "title": "The Three Musketeers",
+      "author": "Alexandre Dumas",
+      "gutenberg_id": 1257,
+      "rounds": [
+        {
+          "passage": "The title attracted me; I took them home with me, with the permission of the guardian, and devoured them.",
+          "word": "took",
+          "word_start": 26,
+          "word_end": 29,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "Two remained with the men in black, who rummaged every place and took all the papers.",
+          "word": "black",
+          "word_start": 29,
+          "word_end": 33,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "At that moment the violins sounded the signal for the ballet.",
+          "word": "moment",
+          "word_start": 8,
+          "word_end": 13,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "Lord de Winter, on quitting D’Artagnan, gave him his sister’s address.",
+          "word": "address",
+          "word_start": 62,
+          "word_end": 68,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "I will say two words about it to the cardinal’s esquire likewise.",
+          "word": "cardinal",
+          "word_start": 37,
+          "word_end": 44,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Felton was a Puritan; he abandoned the hand of this woman to kiss her feet.",
+          "word": "abandoned",
+          "word_start": 25,
+          "word_end": 33,
+          "hint": "A 9-letter word"
+        }
+      ]
+    },
+    {
+      "id": "call-of-the-wild",
+      "title": "The Call of the Wild",
+      "author": "Jack London",
+      "gutenberg_id": 215,
+      "rounds": [
+        {
+          "passage": "The house was approached by gravelled driveways which wound about through wide-spreading lawns and under the interlacing boughs of tall poplars.",
+          "word": "wide",
+          "word_start": 74,
+          "word_end": 77,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "A whiff of warm air ascended to his nostrils, and there, curled up under the snow in a snug ball, lay Billee.",
+          "word": "whiff",
+          "word_start": 2,
+          "word_end": 6,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "It no longer was as one dog leaping in the traces.",
+          "word": "longer",
+          "word_start": 6,
+          "word_end": 11,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "But he held out till camp was reached, when his driver made a place for him by the fire.",
+          "word": "reached",
+          "word_start": 30,
+          "word_end": 36,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "He whittled and listened, gave monosyllabic replies, and, when it was asked, terse advice.",
+          "word": "whittled",
+          "word_start": 3,
+          "word_end": 10,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Those who hurried up heard him cursing Buck, and he cursed him long and fervently, and softly and lovingly. “Gad, sir!",
+          "word": "fervently",
+          "word_start": 72,
+          "word_end": 80,
+          "hint": "A 9-letter word"
+        }
+      ]
+    },
+    {
+      "id": "white-fang",
+      "title": "White Fang",
+      "author": "Jack London",
+      "gutenberg_id": 910,
+      "rounds": [
+        {
+          "passage": "The land itself was a desolation, lifeless, without movement, so lone and cold that the spirit of it was not even that of sadness.",
+          "word": "land",
+          "word_start": 4,
+          "word_end": 7,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "As his teeth crunched through the tender flesh and fragile bones, he began naturally to eat.",
+          "word": "teeth",
+          "word_start": 7,
+          "word_end": 11,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "The superiority of these man-animals increased with every moment.",
+          "word": "moment",
+          "word_start": 58,
+          "word_end": 63,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "It was at the cutting-up of a moose, fresh-killed, that White Fang learned of the changed relations in which he stood to the dog-world.",
+          "word": "cutting",
+          "word_start": 14,
+          "word_end": 20,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "He was regarded as the most fearful of wild beasts, and this was borne in to him through the bars of the cage.",
+          "word": "regarded",
+          "word_start": 7,
+          "word_end": 14,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Near the gang-plank, Scott was shaking hands with Matt, who was preparing to go ashore.",
+          "word": "preparing",
+          "word_start": 64,
+          "word_end": 72,
+          "hint": "A 9-letter word"
+        }
+      ]
+    },
+    {
+      "id": "age-of-innocence",
+      "title": "The Age of Innocence",
+      "author": "Edith Wharton",
+      "gutenberg_id": 541,
+      "rounds": [
+        {
+          "passage": "When Newland Archer opened the door at the back of the club box the curtain had just gone up on the garden scene.",
+          "word": "door",
+          "word_start": 31,
+          "word_end": 34,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "\"Of course I want to know you, my dear,\" cried Mrs.",
+          "word": "cried",
+          "word_start": 41,
+          "word_end": 45,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "Archer leaned against the chimney and looked at her.",
+          "word": "leaned",
+          "word_start": 7,
+          "word_end": 12,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "In spite of their best efforts, however, the dinner was a languishing affair.",
+          "word": "efforts",
+          "word_start": 23,
+          "word_end": 29,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "Jackson reluctantly conceded, \"it's to be hoped they can tide him over--this time anyhow.",
+          "word": "conceded",
+          "word_start": 20,
+          "word_end": 27,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "I've sometimes thought--\" Archer stood up and leaned against the mantelpiece, out of the radius of the lamp.",
+          "word": "sometimes",
           "word_start": 5,
           "word_end": 13,
-          "hint": "Experiencing or causing severe physical or mental suffering"
+          "hint": "A 9-letter word"
+        }
+      ]
+    },
+    {
+      "id": "ethan-frome",
+      "title": "Ethan Frome",
+      "author": "Edith Wharton",
+      "gutenberg_id": 4517,
+      "rounds": [
+        {
+          "passage": "If you know Starkfield, Massachusetts, you know the post-office.",
+          "word": "post",
+          "word_start": 52,
+          "word_end": 55,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "It was so dark under the spruces that he could barely see the shape of her head beside his shoulder.",
+          "word": "shape",
+          "word_start": 62,
+          "word_end": 66,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "Only one thing weighed on him, and that was his having told Zeena that he was to receive cash for the lumber.",
+          "word": "having",
+          "word_start": 48,
+          "word_end": 53,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "The fitful bursts of sleet had changed into a steady rain and the horses had heavy work even without a load behind them.",
+          "word": "changed",
+          "word_start": 31,
+          "word_end": 37,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "His wife had divorced him, and he had married the girl and prospered.",
+          "word": "divorced",
+          "word_start": 13,
+          "word_end": 20,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Under the open sky the light was still clear, with a reflection of cold red on the eastern hills.",
+          "word": "reflection",
+          "word_start": 53,
+          "word_end": 62,
+          "hint": "A 10-letter word"
+        }
+      ]
+    },
+    {
+      "id": "o-pioneers",
+      "title": "O Pioneers!",
+      "author": "Willa Cather",
+      "gutenberg_id": 24,
+      "rounds": [
+        {
+          "passage": "A mist of fine snowflakes was curling and eddying about the cluster of low drab buildings huddled on the gray prairie, under a gray sky.",
+          "word": "mist",
+          "word_start": 2,
+          "word_end": 5,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "He must be there by the first of November.",
+          "word": "first",
+          "word_start": 24,
+          "word_end": 28,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "Alexandra took her three nieces into the flower garden.",
+          "word": "nieces",
+          "word_start": 25,
+          "word_end": 30,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "I like him because he appreciates her more than you do.” Emil frowned. “What are you talking about, Marie?",
+          "word": "frowned",
+          "word_start": 62,
+          "word_end": 68,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "Marie wanted it, too, and she kept making signals to Frank, which he took a sour pleasure in disregarding.",
+          "word": "pleasure",
+          "word_start": 81,
+          "word_end": 88,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "This time he heard it more distinctly, and his blood was quicker than his brain.",
+          "word": "distinctly",
+          "word_start": 27,
+          "word_end": 36,
+          "hint": "A 10-letter word"
+        }
+      ]
+    },
+    {
+      "id": "my-antonia",
+      "title": "My Ántonia",
+      "author": "Willa Cather",
+      "gutenberg_id": 242,
+      "rounds": [
+        {
+          "passage": "He and I are old friends—we grew up together in the same Nebraska town—and we had much to say to each other.",
+          "word": "grew",
+          "word_start": 28,
+          "word_end": 31,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "His shirt was hanging open, and his emaciated chest, covered with yellow bristle, rose and fell horribly.",
+          "word": "shirt",
+          "word_start": 4,
+          "word_end": 8,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "But in my time a little Eyetalian tried the high dive, and it turned out different with him.",
+          "word": "turned",
+          "word_start": 62,
+          "word_end": 67,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "VI Winter comes down savagely over a little town on the prairie.",
+          "word": "prairie",
+          "word_start": 56,
+          "word_end": 62,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "He did not have to marry my mother, and all his brothers quarrelled with him because he did.",
+          "word": "brothers",
+          "word_start": 48,
+          "word_end": 55,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "The claim on Hunker Creek took toll from its possessors.",
+          "word": "possessors",
+          "word_start": 45,
+          "word_end": 54,
+          "hint": "A 10-letter word"
+        }
+      ]
+    },
+    {
+      "id": "jungle",
+      "title": "The Jungle",
+      "author": "Upton Sinclair",
+      "gutenberg_id": 140,
+      "rounds": [
+        {
+          "passage": "She had left the church last of all, and, desiring to arrive first at the hall, had issued orders to the coachman to drive faster.",
+          "word": "left",
+          "word_start": 8,
+          "word_end": 11,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "It belonged to them, they had only to pay the money and it would be all right.",
+          "word": "money",
+          "word_start": 46,
+          "word_end": 50,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "Ona was now making about thirty dollars a month, and Stanislovas about thirteen.",
+          "word": "making",
+          "word_start": 12,
+          "word_end": 17,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "A man he had met, his cell mate had replied—one thing leads to another.",
+          "word": "replied",
+          "word_start": 36,
+          "word_end": 42,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "I can pay.” To which the farmer responded promptly, “We don’t feed tramps here.",
+          "word": "promptly",
+          "word_start": 42,
+          "word_end": 49,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "The woman began screaming, and people came rushing in.",
+          "word": "screaming",
+          "word_start": 16,
+          "word_end": 24,
+          "hint": "A 9-letter word"
+        }
+      ]
+    },
+    {
+      "id": "sister-carrie",
+      "title": "Sister Carrie",
+      "author": "Theodore Dreiser",
+      "gutenberg_id": 44423,
+      "rounds": [
+        {
+          "passage": "Kirkon kuulumisina oli kerrottu muun muassa, että nyt jo se Aijälän maisterikin ensikerran puusäkissä paukutteli.",
+          "word": "muun",
+          "word_start": 32,
+          "word_end": 35,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "Vähitellen lähti liikkeelle useampia paria; toisia jo lakkasikin, mutta Sanna vaan kumppaninsa kanssa yhä pyöri, hyppi keveästi kuin lintu oksallaan; tuskin jalat näyttivät maahan sattuvan.",
+          "word": "paria",
+          "word_start": 37,
+          "word_end": 41,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "Tuosta kääntyy aitan editse menemään Mattilan tanhuan suuhun päin, menee kai sieltä sitten äitinsä tykö, sinne, missä se siellä Mattilan maalla asuneekaan.",
+          "word": "editse",
+          "word_start": 21,
+          "word_end": 26,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "Se kelmeni kelmenemistään, ja silmäys kävi niin aranluontoiseksi, ja sinervät renkaat silmien alla näkyivät yhä selvemmin.",
+          "word": "kelmeni",
+          "word_start": 3,
+          "word_end": 9,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "Mutta kun hän loppiais-iltana pistäytyi kyläilemässä, niin kirjeen sisällyksen kertoi hänelle emäntä.",
+          "word": "loppiais",
+          "word_start": 14,
+          "word_end": 21,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Kaikki, nuot kolme miestä, kaksi naista ja Sanna, katselevat häntä kuin mitä kummitusta.",
+          "word": "katselevat",
+          "word_start": 50,
+          "word_end": 59,
+          "hint": "A 10-letter word"
+        }
+      ]
+    },
+    {
+      "id": "hamlet",
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "gutenberg_id": 1524,
+      "rounds": [
+        {
+          "passage": "A room of state in the Castle Scene III.",
+          "word": "room",
+          "word_start": 2,
+          "word_end": 5,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "Never make known what you have seen tonight.",
+          "word": "known",
+          "word_start": 11,
+          "word_end": 15,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "Use them after your own honour and dignity.",
+          "word": "honour",
+          "word_start": 24,
+          "word_end": 29,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "And so I do still, by these pickers and stealers.",
+          "word": "pickers",
+          "word_start": 28,
+          "word_end": 34,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "Two thousand souls and twenty thousand ducats Will not debate the question of this straw!",
+          "word": "thousand",
+          "word_start": 4,
+          "word_end": 11,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "A pestilence on him for a mad rogue!",
+          "word": "pestilence",
+          "word_start": 2,
+          "word_end": 11,
+          "hint": "A 10-letter word"
+        }
+      ]
+    },
+    {
+      "id": "othello",
+      "title": "Othello",
+      "author": "William Shakespeare",
+      "gutenberg_id": 1531,
+      "rounds": [
+        {
+          "passage": "SCENE: The First Act in Venice; during the rest of the Play at a Seaport in Cyprus.",
+          "word": "rest",
+          "word_start": 43,
+          "word_end": 46,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "The town is empty; on the brow o’ the sea Stand ranks of people, and they cry “A sail!” CASSIO.",
+          "word": "empty",
+          "word_start": 12,
+          "word_end": 16,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "How am I then, a villain To counsel Cassio to this parallel course, Directly to his good?",
+          "word": "course",
+          "word_start": 60,
+          "word_end": 65,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "Yield up, O love, thy crown and hearted throne To tyrannous hate!",
+          "word": "hearted",
+          "word_start": 32,
+          "word_end": 38,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "I do beseech your lordship, call her back.",
+          "word": "lordship",
+          "word_start": 18,
+          "word_end": 25,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "What are you here that cry so grievously?",
+          "word": "grievously",
+          "word_start": 30,
+          "word_end": 39,
+          "hint": "A 10-letter word"
+        }
+      ]
+    },
+    {
+      "id": "macbeth",
+      "title": "Macbeth",
+      "author": "William Shakespeare",
+      "gutenberg_id": 1533,
+      "rounds": [
+        {
+          "passage": "A Park or Lawn, with a gate leading to the Palace.",
+          "word": "gate",
+          "word_start": 23,
+          "word_end": 26,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "Was the hope drunk Wherein you dress’d yourself?",
+          "word": "drunk",
+          "word_start": 13,
+          "word_end": 17,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "Who can be wise, amaz’d, temperate, and furious, Loyal and neutral, in a moment?",
+          "word": "moment",
+          "word_start": 73,
+          "word_end": 78,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "O, these flaws, and starts (Impostors to true fear), would well become A woman’s story at a winter’s fire, Authoris’d by her grandam.",
+          "word": "grandam",
+          "word_start": 125,
+          "word_end": 131,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "Then the liars and swearers are fools: for there are liars and swearers enow to beat the honest men and hang up them.",
+          "word": "swearers",
+          "word_start": 19,
+          "word_end": 26,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Wash your hands, put on your nightgown; look not so pale.",
+          "word": "nightgown",
+          "word_start": 29,
+          "word_end": 37,
+          "hint": "A 9-letter word"
+        }
+      ]
+    },
+    {
+      "id": "king-lear",
+      "title": "King Lear",
+      "author": "William Shakespeare",
+      "gutenberg_id": 1532,
+      "rounds": [
+        {
+          "passage": "A part of the Heath with a Hovel Scene V.",
+          "word": "part",
+          "word_start": 2,
+          "word_end": 5,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "Truth’s a dog must to kennel; he must be whipped out, when the Lady Brach may stand by the fire and stink.",
+          "word": "stand",
+          "word_start": 78,
+          "word_end": 82,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "Fortune, that arrant whore, Ne’er turns the key to th’ poor.",
+          "word": "arrant",
+          "word_start": 14,
+          "word_end": 19,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "I will have my revenge ere I depart his house.",
+          "word": "revenge",
+          "word_start": 15,
+          "word_end": 21,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "Not to a rage: patience and sorrow strove Who should express her goodliest.",
+          "word": "patience",
+          "word_start": 15,
+          "word_end": 22,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "O, look upon me, sir, And hold your hands in benediction o’er me.",
+          "word": "benediction",
+          "word_start": 45,
+          "word_end": 55,
+          "hint": "A 11-letter word"
+        }
+      ]
+    },
+    {
+      "id": "midsummer-nights-dream",
+      "title": "A Midsummer Night's Dream",
+      "author": "William Shakespeare",
+      "gutenberg_id": 1514,
+      "rounds": [
+        {
+          "passage": "A room in the Palace of Theseus Scene II.",
+          "word": "room",
+          "word_start": 2,
+          "word_end": 5,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "I must go seek some dew-drops here, And hang a pearl in every cowslip’s ear.",
+          "word": "drops",
+          "word_start": 24,
+          "word_end": 28,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "There are things in this comedy of Pyramus and Thisbe that will never please.",
+          "word": "things",
+          "word_start": 10,
+          "word_end": 15,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "Captain of our fairy band, Helena is here at hand, And the youth mistook by me, Pleading for a lover’s fee.",
+          "word": "mistook",
+          "word_start": 65,
+          "word_end": 71,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "By day’s approach look to be visited. [_Lies down and sleeps._] Enter Helena.",
+          "word": "approach",
+          "word_start": 9,
+          "word_end": 16,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "I love not to see wretchedness o’ercharged, And duty in his service perishing.",
+          "word": "wretchedness",
+          "word_start": 18,
+          "word_end": 29,
+          "hint": "A 12-letter word"
+        }
+      ]
+    },
+    {
+      "id": "meditations",
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "gutenberg_id": 2680,
+      "rounds": [
+        {
+          "passage": "Thus the most religious of emperors came of the blood of the most pious of early kings.",
+          "word": "came",
+          "word_start": 36,
+          "word_end": 39,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "For if thy reason do her part, what more canst thou require?",
+          "word": "canst",
+          "word_start": 41,
+          "word_end": 45,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "Where so many heroes of the old times; and then so many brave captains of the latter times; and so many kings.",
+          "word": "heroes",
+          "word_start": 14,
+          "word_end": 19,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "This time that is now present, bestow thou upon thyself.",
+          "word": "present",
+          "word_start": 22,
+          "word_end": 28,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "For all these things, what are they, but fit objects for an understanding, that beholdeth everything according to its true nature, to exercise itself upon?",
+          "word": "exercise",
+          "word_start": 134,
+          "word_end": 141,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "O arguments,[29] O arrangement, O elegance, O wit, O beauty, O words, O brilliancy, O subtilty, O grace, O treatment, O everything!",
+          "word": "arguments",
+          "word_start": 2,
+          "word_end": 10,
+          "hint": "A 9-letter word"
+        }
+      ]
+    },
+    {
+      "id": "the-prince",
+      "title": "The Prince",
+      "author": "Niccolò Machiavelli",
+      "gutenberg_id": 1232,
+      "rounds": [
+        {
+          "passage": "From 1494 to 1512 held an official post at Florence which included diplomatic missions to various European courts.",
+          "word": "held",
+          "word_start": 18,
+          "word_end": 21,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "In doing so I will keep to the order indicated above, and discuss how such principalities are to be ruled and preserved.",
+          "word": "order",
+          "word_start": 31,
+          "word_end": 35,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "Agathocles, the Sicilian,[1] became King of Syracuse not only from a private but from a low and abject position.",
+          "word": "became",
+          "word_start": 29,
+          "word_end": 34,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "The present King of Spain would not have undertaken or conquered in so many enterprises if he had been reputed liberal.",
+          "word": "present",
+          "word_start": 4,
+          "word_end": 10,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "Sometimes pondering over this, I am in some degree inclined to their opinion.",
+          "word": "inclined",
+          "word_start": 51,
+          "word_end": 58,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Frederick, having appointed a governor in Rome to watch his Italian affairs, returned to Germany.",
+          "word": "appointed",
+          "word_start": 18,
+          "word_end": 26,
+          "hint": "A 9-letter word"
+        }
+      ]
+    },
+    {
+      "id": "common-sense",
+      "title": "Common Sense",
+      "author": "Thomas Paine",
+      "gutenberg_id": 3176,
+      "rounds": [
+        {
+          "passage": "Thankless Devotion--A Newspaper Valedictory--Conclusion PREFACE This book is a record of a pleasure trip.",
+          "word": "book",
+          "word_start": 69,
+          "word_end": 72,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "Napoleon has augmented the commercial prosperity of France in ten years to such a degree that figures can hardly compute it.",
+          "word": "years",
+          "word_start": 66,
+          "word_end": 70,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "Directly Dan said: “Doctor, it is perfect luxury.",
+          "word": "luxury",
+          "word_start": 42,
+          "word_end": 47,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "As we marched along, we began to get over our fears, and ceased to care much about quarantine scouts or any body else.",
+          "word": "marched",
+          "word_start": 6,
+          "word_end": 12,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "The yelling and shouting, and whipping and galloping, of all parties interested, made it an exhilarating, exciting, and particularly boisterous race.",
+          "word": "shouting",
+          "word_start": 16,
+          "word_end": 23,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "They perform everywhere--all over the vast building, and at all hours.",
+          "word": "everywhere",
+          "word_start": 13,
+          "word_end": 22,
+          "hint": "A 10-letter word"
+        }
+      ]
+    },
+    {
+      "id": "walden",
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "gutenberg_id": 205,
+      "rounds": [
+        {
+          "passage": "At present I am a sojourner in civilized life again.",
+          "word": "life",
+          "word_start": 41,
+          "word_end": 44,
+          "hint": "A 4-letter word"
+        },
+        {
+          "passage": "Nations are possessed with an insane ambition to perpetuate the memory of themselves by the amount of hammered stone they leave.",
+          "word": "stone",
+          "word_start": 111,
+          "word_end": 115,
+          "hint": "A 5-letter word"
+        },
+        {
+          "passage": "I watch the passage of the morning cars with the same feeling that I do the rising of the sun, which is hardly more regular.",
+          "word": "rising",
+          "word_start": 76,
+          "word_end": 81,
+          "hint": "A 6-letter word"
+        },
+        {
+          "passage": "The thrills of joy and thrills of pain are undistinguishable.",
+          "word": "thrills",
+          "word_start": 4,
+          "word_end": 10,
+          "hint": "A 7-letter word"
+        },
+        {
+          "passage": "However that may be, I was struck by the peculiar toughness of the steel which bore so many violent blows without being worn out.",
+          "word": "peculiar",
+          "word_start": 41,
+          "word_end": 48,
+          "hint": "A 8-letter word"
+        },
+        {
+          "passage": "Through our own recovered innocence we discern the innocence of our neighbors.",
+          "word": "recovered",
+          "word_start": 16,
+          "word_end": 24,
+          "hint": "A 9-letter word"
         }
       ]
     }
