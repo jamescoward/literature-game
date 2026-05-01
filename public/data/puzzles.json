@@ -1,6 +1,156 @@
 {
   "puzzles": [
     {
+      "id": "sense-and-sensibility",
+      "title": "Sense and Sensibility",
+      "author": "Jane Austen",
+      "gutenberg_id": 161,
+      "rounds": [
+        {
+          "passage": "The family of Dashwood had long been settled in Sussex.",
+          "word": "long",
+          "word_start": 27,
+          "word_end": 30,
+          "hint": "A long vowel."
+        },
+        {
+          "passage": "The whole story would have been speedily formed under her active imagination; and every thing established in the most melancholy order of disastrous love.",
+          "word": "whole",
+          "word_start": 4,
+          "word_end": 8,
+          "hint": "Something complete, without any parts missing."
+        },
+        {
+          "passage": "Not above ten miles, I dare say.” “Much nearer thirty,” said her husband. “Ah, well! there is not much difference.",
+          "word": "nearer",
+          "word_start": 40,
+          "word_end": 45,
+          "hint": "Physically close."
+        },
+        {
+          "passage": "The triumph of seeing me so may be open to all the world.",
+          "word": "triumph",
+          "word_start": 4,
+          "word_end": 10,
+          "hint": "A conclusive success following an effort, conflict, or confrontation of obstacles; victory; conqu..."
+        },
+        {
+          "passage": "I come now to the relation of a misfortune, which about this time befell Mrs.",
+          "word": "relation",
+          "word_start": 18,
+          "word_end": 25,
+          "hint": "The manner in which two things may be associated."
+        },
+        {
+          "passage": "All within Elinor’s breast was satisfaction, silent and strong.",
+          "word": "satisfaction",
+          "word_start": 31,
+          "word_end": 42,
+          "hint": "A fulfilment of a need or desire."
+        }
+      ]
+    },
+    {
+      "id": "jane-eyre",
+      "title": "Jane Eyre",
+      "author": "Charlotte Brontë",
+      "gutenberg_id": 1260,
+      "rounds": [
+        {
+          "passage": "To the Public, for the indulgent ear it has inclined to a plain tale with few pretensions.",
+          "word": "tale",
+          "word_start": 64,
+          "word_end": 67,
+          "hint": "An account of an asserted fact or circumstance; a rumour; a report, especially an idle or malicio..."
+        },
+        {
+          "passage": "He went on as a statue would, that is, he neither spoke nor moved.",
+          "word": "spoke",
+          "word_start": 50,
+          "word_end": 54,
+          "hint": "A support structure that connects the axle or the hub of a wheel to the rim."
+        },
+        {
+          "passage": "I cannot remember detecting gratitude in his face.” “Detecting!",
+          "word": "cannot",
+          "word_start": 2,
+          "word_end": 7,
+          "hint": "Something that cannot be done."
+        },
+        {
+          "passage": "It was not without a certain wild pleasure I ran before the wind, delivering my trouble of mind to the measureless air-torrent thundering through space.",
+          "word": "certain",
+          "word_start": 21,
+          "word_end": 27,
+          "hint": "(with \"the\") Something certain."
+        },
+        {
+          "passage": "It remained now only to find a hollow where I could lie down, and feel at least hidden, if not secure.",
+          "word": "remained",
+          "word_start": 3,
+          "word_end": 10,
+          "hint": "To stay behind while others withdraw; to be left after others have been removed or destroyed; to ..."
+        },
+        {
+          "passage": "He had performed an act of duty; made an exertion; felt his own strength to do and deny, and was on better terms with himself.",
+          "word": "performed",
+          "word_start": 7,
+          "word_end": 15,
+          "hint": "To do something; to execute."
+        }
+      ]
+    },
+    {
+      "id": "wuthering-heights",
+      "title": "Wuthering Heights",
+      "author": "Emily Brontë",
+      "gutenberg_id": 768,
+      "rounds": [
+        {
+          "passage": "In all England, I do not believe that I could have fixed on a situation so completely removed from the stir of society.",
+          "word": "stir",
+          "word_start": 103,
+          "word_end": 106,
+          "hint": "The act or result of stirring (moving around the particles of a liquid etc.)"
+        },
+        {
+          "passage": "No law in England can hinder a man from keeping his house decent, and mine’s abominable!",
+          "word": "house",
+          "word_start": 52,
+          "word_end": 56,
+          "hint": "A structure built or serving as an abode of human beings."
+        },
+        {
+          "passage": "Linton. “You _must_ answer it; and that violence does not alarm me.",
+          "word": "answer",
+          "word_start": 20,
+          "word_end": 25,
+          "hint": "A response or reply; something said or done in reaction to a statement or question."
+        },
+        {
+          "passage": "Why should you be anxious to conceal them?",
+          "word": "anxious",
+          "word_start": 18,
+          "word_end": 24,
+          "hint": "Nervous and worried."
+        },
+        {
+          "passage": "I bid her be cautious lest she got a fall, and she nimbly disappeared.",
+          "word": "cautious",
+          "word_start": 13,
+          "word_end": 20,
+          "hint": "Careful; using or exercising caution; tentative"
+        },
+        {
+          "passage": "She told me that her anguish had at last spurred Linton to incur the risk of liberating her.",
+          "word": "liberating",
+          "word_start": 77,
+          "word_end": 86,
+          "hint": "To set free, to make or allow to be free, particularly"
+        }
+      ]
+    },
+    {
       "id": "frankenstein",
       "title": "Frankenstein",
       "author": "Mary Shelley",
@@ -97,56 +247,6 @@
           "word_start": 64,
           "word_end": 72,
           "hint": "A period of 100 consecutive years; often specifically a numbered period with conventional start a..."
-        }
-      ]
-    },
-    {
-      "id": "picture-of-dorian-gray",
-      "title": "The Picture of Dorian Gray",
-      "author": "Oscar Wilde",
-      "gutenberg_id": 174,
-      "rounds": [
-        {
-          "passage": "The highest as the lowest form of criticism is a mode of autobiography.",
-          "word": "form",
-          "word_start": 26,
-          "word_end": 29,
-          "hint": "(heading, physical) To do with shape."
-        },
-        {
-          "passage": "Lady Agatha shook her head, but could not help being amused.",
-          "word": "shook",
-          "word_start": 12,
-          "word_end": 16,
-          "hint": "A set of pieces for making a cask or box, usually wood."
-        },
-        {
-          "passage": "She had all the delicate grace of that Tanagra figurine that you have in your studio, Basil.",
-          "word": "studio",
-          "word_start": 78,
-          "word_end": 83,
-          "hint": "An artist’s or photographer’s workshop or the room in which an artist works."
-        },
-        {
-          "passage": "If the picture was to alter, it was to alter.",
-          "word": "picture",
-          "word_start": 7,
-          "word_end": 13,
-          "hint": "A representation of anything (as a person, a landscape, a building) upon canvas, paper, or other ..."
-        },
-        {
-          "passage": "Your name happened to come up in conversation, in connection with the miniatures you have lent to the exhibition at the Dudley.",
-          "word": "happened",
-          "word_start": 10,
-          "word_end": 17,
-          "hint": "To occur or take place."
-        },
-        {
-          "passage": "Women who hate one are much more interesting.",
-          "word": "interesting",
-          "word_start": 33,
-          "word_end": 43,
-          "hint": "To engage the attention of; to awaken interest in; to excite emotion or passion in, in behalf of ..."
         }
       ]
     },
@@ -261,42 +361,42 @@
           "word": "back",
           "word_start": 19,
           "word_end": 22,
-          "hint": "A 4-letter word"
+          "hint": "The rear of the body, especially the part between the neck and the end of the spine and opposite ..."
         },
         {
           "passage": "It was a night tide; and soon after we went to bed, Mr.",
           "word": "night",
           "word_start": 9,
           "word_end": 13,
-          "hint": "A 5-letter word"
+          "hint": "The period between sunset and sunrise, when a location faces far away from the sun, thus when the..."
         },
         {
           "passage": "It’s no fun,’ said Steerforth, ‘unless we take them by surprise.",
           "word": "unless",
           "word_start": 32,
           "word_end": 37,
-          "hint": "A 6-letter word"
+          "hint": "Except on a specified condition; if not."
         },
         {
           "passage": "Barkis,’ he cried faintly. ‘No better woman anywhere!’ ‘Look!",
           "word": "faintly",
           "word_start": 18,
           "word_end": 24,
-          "hint": "A 7-letter word"
+          "hint": "In a faint manner; very quietly or lightly."
         },
         {
           "passage": "She read my letter to the two old ladies, in the morning, and approved of it.",
           "word": "approved",
           "word_start": 62,
           "word_end": 69,
-          "hint": "A 8-letter word"
+          "hint": "To sanction officially; to ratify; to confirm; to set as satisfactory."
         },
         {
           "passage": "Peggotty had now removed here for good; and had let her own house to the successor of Mr.",
           "word": "successor",
           "word_start": 73,
           "word_end": 81,
-          "hint": "A 9-letter word"
+          "hint": "A person or thing that immediately follows another in holding an office or title."
         }
       ]
     },
@@ -311,42 +411,42 @@
           "word": "whom",
           "word_start": 29,
           "word_end": 32,
-          "hint": "A 4-letter word"
+          "hint": "(interrogative) What person or people; which person or people."
         },
         {
           "passage": "It looks in at the windows and touches the ancestral portraits with bars and patches of brightness never contemplated by the painters.",
           "word": "looks",
           "word_start": 3,
           "word_end": 7,
-          "hint": "A 5-letter word"
+          "hint": "One's appearance or attractiveness."
         },
         {
           "passage": "It wants a bit of youth as much as it wants fresh air.” Then he dismisses her, lights his pipe, and drinks to Mr.",
           "word": "lights",
           "word_start": 79,
           "word_end": 84,
-          "hint": "A 6-letter word"
+          "hint": "Visible electromagnetic radiation. The human eye can typically detect radiation (light) in the wa..."
         },
         {
           "passage": "A stagnant, sickening oil with some natural repulsion in it that makes them both shudder. “What have you been doing here?",
           "word": "natural",
           "word_start": 36,
           "word_end": 42,
-          "hint": "A 7-letter word"
+          "hint": "A native inhabitant of a place, country etc."
         },
         {
           "passage": "Can you feel quite assured of that, my dear?” “I can, and I do,” I said. “That’s much,” he answered. “That’s everything.",
           "word": "answered",
           "word_start": 91,
           "word_end": 98,
-          "hint": "A 8-letter word"
+          "hint": "To make a reply or response to."
         },
         {
           "passage": "Bucket, very attentive, “and consequently you’re going on to mention what the nature of your secret is.",
           "word": "attentive",
           "word_start": 13,
           "word_end": 21,
-          "hint": "A 9-letter word"
+          "hint": "Paying attention; noticing, watching, listening, or attending closely."
         }
       ]
     },
@@ -361,42 +461,42 @@
           "word": "like",
           "word_start": 17,
           "word_end": 20,
-          "hint": "A 4-letter word"
+          "hint": "(usually in the plural) Something that a person likes (prefers)."
         },
         {
           "passage": "I did wish Tom Sawyer was there; I knowed he would take an interest in this kind of business, and throw in the fancy touches.",
           "word": "throw",
           "word_start": 98,
           "word_end": 102,
-          "hint": "A 5-letter word"
+          "hint": "To change place."
         },
         {
           "passage": "We shot a water-fowl, now and, then that got up too early in the morning or didn’t go to bed early enough in the evening.",
           "word": "enough",
           "word_start": 99,
           "word_end": 104,
-          "hint": "A 6-letter word"
+          "hint": "Sufficiently."
         },
         {
           "passage": "The old gentleman owned a lot of farms and over a hundred niggers.",
           "word": "hundred",
           "word_start": 50,
           "word_end": 56,
-          "hint": "A 7-letter word"
+          "hint": "A hundred-dollar bill, or any other note denominated 100 (e.g. a hundred euros)."
         },
         {
           "passage": "Ther’ ain’t no question ’bout it in _my_ mind.",
           "word": "question",
           "word_start": 15,
           "word_end": 22,
-          "hint": "A 8-letter word"
+          "hint": "A sentence, phrase or word which asks for information, reply or response; an interrogative."
         },
         {
           "passage": "Now I was feeling pretty comfortable all down one side, and pretty uncomfortable all up the other.",
           "word": "comfortable",
           "word_start": 25,
           "word_end": 35,
-          "hint": "A 11-letter word"
+          "hint": "A stuffed or quilted coverlet for a bed; a comforter."
         }
       ]
     },
@@ -2101,106 +2201,6 @@
       ]
     },
     {
-      "id": "midsummer-nights-dream",
-      "title": "A Midsummer Night's Dream",
-      "author": "William Shakespeare",
-      "gutenberg_id": 1514,
-      "rounds": [
-        {
-          "passage": "A room in the Palace of Theseus Scene II.",
-          "word": "room",
-          "word_start": 2,
-          "word_end": 5,
-          "hint": "A 4-letter word"
-        },
-        {
-          "passage": "I must go seek some dew-drops here, And hang a pearl in every cowslip’s ear.",
-          "word": "drops",
-          "word_start": 24,
-          "word_end": 28,
-          "hint": "A 5-letter word"
-        },
-        {
-          "passage": "There are things in this comedy of Pyramus and Thisbe that will never please.",
-          "word": "things",
-          "word_start": 10,
-          "word_end": 15,
-          "hint": "A 6-letter word"
-        },
-        {
-          "passage": "Captain of our fairy band, Helena is here at hand, And the youth mistook by me, Pleading for a lover’s fee.",
-          "word": "mistook",
-          "word_start": 65,
-          "word_end": 71,
-          "hint": "A 7-letter word"
-        },
-        {
-          "passage": "By day’s approach look to be visited. [_Lies down and sleeps._] Enter Helena.",
-          "word": "approach",
-          "word_start": 9,
-          "word_end": 16,
-          "hint": "A 8-letter word"
-        },
-        {
-          "passage": "I love not to see wretchedness o’ercharged, And duty in his service perishing.",
-          "word": "wretchedness",
-          "word_start": 18,
-          "word_end": 29,
-          "hint": "A 12-letter word"
-        }
-      ]
-    },
-    {
-      "id": "meditations",
-      "title": "Meditations",
-      "author": "Marcus Aurelius",
-      "gutenberg_id": 2680,
-      "rounds": [
-        {
-          "passage": "Thus the most religious of emperors came of the blood of the most pious of early kings.",
-          "word": "came",
-          "word_start": 36,
-          "word_end": 39,
-          "hint": "A 4-letter word"
-        },
-        {
-          "passage": "For if thy reason do her part, what more canst thou require?",
-          "word": "canst",
-          "word_start": 41,
-          "word_end": 45,
-          "hint": "A 5-letter word"
-        },
-        {
-          "passage": "Where so many heroes of the old times; and then so many brave captains of the latter times; and so many kings.",
-          "word": "heroes",
-          "word_start": 14,
-          "word_end": 19,
-          "hint": "A 6-letter word"
-        },
-        {
-          "passage": "This time that is now present, bestow thou upon thyself.",
-          "word": "present",
-          "word_start": 22,
-          "word_end": 28,
-          "hint": "A 7-letter word"
-        },
-        {
-          "passage": "For all these things, what are they, but fit objects for an understanding, that beholdeth everything according to its true nature, to exercise itself upon?",
-          "word": "exercise",
-          "word_start": 134,
-          "word_end": 141,
-          "hint": "A 8-letter word"
-        },
-        {
-          "passage": "O arguments,[29] O arrangement, O elegance, O wit, O beauty, O words, O brilliancy, O subtilty, O grace, O treatment, O everything!",
-          "word": "arguments",
-          "word_start": 2,
-          "word_end": 10,
-          "hint": "A 9-letter word"
-        }
-      ]
-    },
-    {
       "id": "the-prince",
       "title": "The Prince",
       "author": "Niccolò Machiavelli",
@@ -2211,42 +2211,42 @@
           "word": "held",
           "word_start": 18,
           "word_end": 21,
-          "hint": "A 4-letter word"
+          "hint": "To grasp or grip."
         },
         {
           "passage": "In doing so I will keep to the order indicated above, and discuss how such principalities are to be ruled and preserved.",
           "word": "order",
           "word_start": 31,
           "word_end": 35,
-          "hint": "A 5-letter word"
+          "hint": "Arrangement, disposition, or sequence."
         },
         {
           "passage": "Agathocles, the Sicilian,[1] became King of Syracuse not only from a private but from a low and abject position.",
           "word": "became",
           "word_start": 29,
           "word_end": 34,
-          "hint": "A 6-letter word"
+          "hint": "To arrive, come (to a place)."
         },
         {
           "passage": "The present King of Spain would not have undertaken or conquered in so many enterprises if he had been reputed liberal.",
           "word": "present",
           "word_start": 4,
           "word_end": 10,
-          "hint": "A 7-letter word"
+          "hint": "The current moment or period of time."
         },
         {
           "passage": "Sometimes pondering over this, I am in some degree inclined to their opinion.",
           "word": "inclined",
           "word_start": 51,
           "word_end": 58,
-          "hint": "A 8-letter word"
+          "hint": "To bend or move (something) out of a given plane or direction, often the horizontal or vertical."
         },
         {
           "passage": "Frederick, having appointed a governor in Rome to watch his Italian affairs, returned to Germany.",
           "word": "appointed",
           "word_start": 18,
           "word_end": 26,
-          "hint": "A 9-letter word"
+          "hint": "To set, fix or determine (a time or place for something such as a meeting, or the meeting itself)..."
         }
       ]
     },
@@ -2261,42 +2261,42 @@
           "word": "book",
           "word_start": 69,
           "word_end": 72,
-          "hint": "A 4-letter word"
+          "hint": "A collection of sheets of paper bound together to hinge at one edge, containing printed or writte..."
         },
         {
           "passage": "Napoleon has augmented the commercial prosperity of France in ten years to such a degree that figures can hardly compute it.",
           "word": "years",
           "word_start": 66,
           "word_end": 70,
-          "hint": "A 5-letter word"
+          "hint": "A solar year, the time it takes the Earth to complete one revolution of the Sun (between 365.24 a..."
         },
         {
           "passage": "Directly Dan said: “Doctor, it is perfect luxury.",
           "word": "luxury",
           "word_start": 42,
           "word_end": 47,
-          "hint": "A 6-letter word"
+          "hint": "Very wealthy and comfortable surroundings."
         },
         {
           "passage": "As we marched along, we began to get over our fears, and ceased to care much about quarantine scouts or any body else.",
           "word": "marched",
           "word_start": 6,
           "word_end": 12,
-          "hint": "A 7-letter word"
+          "hint": "To walk with long, regular strides, as a soldier does."
         },
         {
           "passage": "The yelling and shouting, and whipping and galloping, of all parties interested, made it an exhilarating, exciting, and particularly boisterous race.",
           "word": "shouting",
           "word_start": 16,
           "word_end": 23,
-          "hint": "A 8-letter word"
+          "hint": "To utter a sudden and loud cry, as in joy, triumph, exultation or anger, or to attract attention,..."
         },
         {
           "passage": "They perform everywhere--all over the vast building, and at all hours.",
           "word": "everywhere",
           "word_start": 13,
           "word_end": 22,
-          "hint": "A 10-letter word"
+          "hint": "In or to all locations under discussion."
         }
       ]
     },
@@ -2311,42 +2311,42 @@
           "word": "life",
           "word_start": 41,
           "word_end": 44,
-          "hint": "A 4-letter word"
+          "hint": "The state of organisms preceding their death, characterized by biological processes such as metab..."
         },
         {
           "passage": "Nations are possessed with an insane ambition to perpetuate the memory of themselves by the amount of hammered stone they leave.",
           "word": "stone",
           "word_start": 111,
           "word_end": 115,
-          "hint": "A 5-letter word"
+          "hint": "A hard earthen substance that can form large rocks."
         },
         {
           "passage": "I watch the passage of the morning cars with the same feeling that I do the rising of the sun, which is hardly more regular.",
           "word": "rising",
           "word_start": 76,
           "word_end": 81,
-          "hint": "A 6-letter word"
+          "hint": "To move, or appear to move, physically upwards relative to the ground."
         },
         {
           "passage": "The thrills of joy and thrills of pain are undistinguishable.",
           "word": "thrills",
           "word_start": 4,
           "word_end": 10,
-          "hint": "A 7-letter word"
+          "hint": "A trembling or quivering, especially one caused by emotion."
         },
         {
           "passage": "However that may be, I was struck by the peculiar toughness of the steel which bore so many violent blows without being worn out.",
           "word": "peculiar",
           "word_start": 41,
           "word_end": 48,
-          "hint": "A 8-letter word"
+          "hint": "That which is peculiar; a sole or exclusive property; a prerogative; a characteristic."
         },
         {
           "passage": "Through our own recovered innocence we discern the innocence of our neighbors.",
           "word": "recovered",
           "word_start": 16,
           "word_end": 24,
-          "hint": "A 9-letter word"
+          "hint": "To get back, to regain (a physical thing; in astronomy and navigation, sight of a thing or a sign..."
         }
       ]
     }
