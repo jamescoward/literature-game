@@ -39,14 +39,14 @@
           "word": "conclude",
           "word_start": 7,
           "word_end": 14,
-          "hint": "To end; to come to an end."
+          "hint": "A 8-letter word"
         },
         {
           "passage": "They were more disturbed, more unequal, than she had often seen them.",
           "word": "disturbed",
           "word_start": 15,
           "word_end": 23,
-          "hint": "To confuse a quiet, constant state or a calm, continuous flow, in particular: thoughts, actions o..."
+          "hint": "A 9-letter word"
         }
       ]
     },
@@ -89,7 +89,7 @@
           "word": "relation",
           "word_start": 18,
           "word_end": 25,
-          "hint": "The manner in which two things may be associated."
+          "hint": "A 8-letter word"
         },
         {
           "passage": "All within Elinor’s breast was satisfaction, silent and strong.",
@@ -139,7 +139,7 @@
           "word": "remained",
           "word_start": 3,
           "word_end": 10,
-          "hint": "To stay behind while others withdraw; to be left after others have been removed or destroyed; to ..."
+          "hint": "A 8-letter word"
         },
         {
           "passage": "He had performed an act of duty; made an exertion; felt his own strength to do and deny, and was on better terms with himself.",
@@ -211,7 +211,7 @@
           "word": "hear",
           "word_start": 20,
           "word_end": 23,
-          "hint": "(stative) To perceive sounds through the ear."
+          "hint": "A 4-letter word"
         },
         {
           "passage": "I alighted and was conducted to my solitary apartment to spend the evening as I pleased.",
@@ -1257,8 +1257,8 @@
       "gutenberg_id": 35,
       "rounds": [
         {
-          "passage": "His pale grey eyes shone and twinkled, and his usually pale face was flushed and animated.",
-          "word": "pale",
+          "passage": "His grey eyes shone and twinkled, and his usually pale face was flushed and animated.",
+          "word": "grey",
           "word_start": 4,
           "word_end": 7,
           "hint": "A 4-letter word"
